@@ -1,0 +1,12 @@
+{
+  "name": "smart-education",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Student, Teacher and Computer Smart Education website",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

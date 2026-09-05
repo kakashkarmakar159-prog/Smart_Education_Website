@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="bn">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Computer Question | Smart Education</title>
+<link rel="stylesheet" href="common.css"><link rel="stylesheet" href="ComputerQuestion.css">
+</head>
+<body>
+<div class="app">
+<header class="topbar"><a class="brand-cap" href="Open.html" aria-label="Open"><img src="education-cap.svg" alt=""></a><div class="top-actions"><button class="icon-btn theme-moon" onclick="toggleTheme()" title="Dark mode">☾</button><button class="icon-btn theme-sun" onclick="toggleTheme()" title="White mode">☼</button><a class="profile-button" href="StudentProfile.html" title="Profile"><span class="profile-avatar" id="topAvatar">S</span></a></div></header>
+
+<main class="page page-computerquestion">
+  <section class="subject-banner" id="subjectBanner">
+    <img id="subjectBannerImage" class="subject-banner-image" src="Subject.jpg" alt="Subject">
+    <div class="subject-banner-overlay">
+      <div class="subject-banner-title" id="subjectBannerTitle">Bengali</div>
+      <div class="subject-banner-meta" id="meta">Class 12 · Semester 3</div>
+    </div>
+    <span class="badge banner-badge">Practice</span>
+  </section>
+
+  <section class="question-index card" id="questionIndex">
+    <div class="index-title"><b>Questions</b><span id="countBadge" class="badge"></span></div>
+    <div id="questionButtons" class="question-buttons"></div>
+  </section>
+
+  <section id="questionArea" class="question-list"></section>
+
+  <button class="btn full" onclick="go('ExamRules.html?computer=1')">Exam</button>
+</main>
+</div>
+<script src="app.js"></script><script src="ComputerQuestion.js"></script>
+</body>
+</html>

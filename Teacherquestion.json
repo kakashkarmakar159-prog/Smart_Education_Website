@@ -1,0 +1,84 @@
+{
+  "papers": [
+    {
+      "id": "paper-demo",
+      "teacherName": "Demo Teacher",
+      "password": "1234",
+      "subject": "Accountancy",
+      "class": "12",
+      "semester": "3",
+      "status": "published",
+      "createdAt": "2026-09-04",
+      "questions": [
+        {
+          "id": "tp-1",
+          "question": "What is the sacrificing ratio?",
+          "options": [
+            "Old Ratio − New Ratio",
+            "New Ratio − Old Ratio",
+            "Old Ratio + New Ratio",
+            "None"
+          ],
+          "answer": "Old Ratio − New Ratio",
+          "marks": 2,
+          "type": "mcq",
+          "time": 5
+        },
+        {
+          "id": "tp-2",
+          "question": "Which account is prepared when a new partner is admitted?",
+          "options": [
+            "Revaluation Account",
+            "Trading Account",
+            "Cash Book",
+            "Purchase Book"
+          ],
+          "answer": "Revaluation Account",
+          "marks": 2,
+          "type": "mcq",
+          "time": 5
+        }
+      ]
+    },
+    {
+      "teacherName": "Aakas Karmakar",
+      "password": "1590",
+      "subject": "Mathematic",
+      "class": "12",
+      "semester": "3",
+      "questions": [
+        {
+          "id": "q-1788453137336",
+          "question": "what is tahe are",
+          "options": [
+            "r",
+            "g",
+            "h",
+            "d"
+          ],
+          "answer": "h",
+          "marks": 1,
+          "type": "mcq",
+          "time": 5
+        },
+        {
+          "id": "q-1788453156031",
+          "question": "jk,,bn.cm/b,/';b",
+          "options": [
+            "fd",
+            "ff",
+            "gs",
+            "gg"
+          ],
+          "answer": "ff",
+          "marks": 1,
+          "type": "mcq",
+          "time": 5
+        }
+      ],
+      "status": "published",
+      "id": "paper-1788453086472",
+      "createdAt": "2026-09-03"
+    }
+  ]
+}

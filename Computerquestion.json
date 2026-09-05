@@ -1,0 +1,3964 @@
+{
+  "questions": [
+    {
+      "id": "cmath-001",
+      "type": "math",
+      "subject": "Mathematics",
+      "class": "12",
+      "semester": "3",
+      "question": "If A's Old Ratio is 1/2 and New Ratio is 1/3, calculate A's sacrifice.",
+      "options": [
+        "1/6",
+        "1/3",
+        "1/2",
+        "2/3"
+      ],
+      "answer": "1/6",
+      "solution": "Sacrifice = Old Ratio − New Ratio = 1/2 − 1/3 = 1/6.",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cmath-002",
+      "type": "math",
+      "subject": "Mathematics",
+      "class": "12",
+      "semester": "3",
+      "question": "Solve: 2x + 5 = 15.",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "10"
+      ],
+      "answer": "5",
+      "solution": "2x + 5 = 15 → 2x = 10 → x = 5.",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cbeng-001",
+      "type": "normal",
+      "subject": "Bengali",
+      "class": "12",
+      "semester": "3",
+      "question": "‘বিদ্রোহী’ কবিতার কবি কে?",
+      "options": [
+        "রবীন্দ্রনাথ ঠাকুর",
+        "কাজী নজরুল ইসলাম",
+        "জীবনানন্দ দাশ",
+        "সুকান্ত ভট্টাচার্য"
+      ],
+      "answer": "কাজী নজরুল ইসলাম",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cbeng-002",
+      "type": "normal",
+      "subject": "Bengali",
+      "class": "12",
+      "semester": "3",
+      "question": "‘বিদ্রোহী’ কবিতায় কবি প্রধানত কী প্রকাশ করেছেন?",
+      "options": [
+        "প্রকৃতির সৌন্দর্য",
+        "বিদ্রোহী চেতনা",
+        "শোকের অনুভূতি",
+        "প্রেমের অনুভূতি"
+      ],
+      "answer": "বিদ্রোহী চেতনা",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cbeng-003",
+      "type": "normal",
+      "subject": "Bengali",
+      "class": "12",
+      "semester": "3",
+      "question": "কাজী নজরুল ইসলামকে কোন উপাধিতে অভিহিত করা হয়?",
+      "options": [
+        "বিশ্বকবি",
+        "বিদ্রোহী কবি",
+        "পল্লীকবি",
+        "কথাশিল্পী"
+      ],
+      "answer": "বিদ্রোহী কবি",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cbeng-004",
+      "type": "normal",
+      "subject": "Bengali",
+      "class": "12",
+      "semester": "3",
+      "question": "‘বিদ্রোহী’ কবিতার মূল সুর কোনটি?",
+      "options": [
+        "অন্যায়ের বিরুদ্ধে প্রতিবাদ",
+        "নির্জনতার বর্ণনা",
+        "গ্রামবাংলার ছবি",
+        "ঐতিহাসিক কাহিনি"
+      ],
+      "answer": "অন্যায়ের বিরুদ্ধে প্রতিবাদ",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cbeng-005",
+      "type": "normal",
+      "subject": "Bengali",
+      "class": "12",
+      "semester": "3",
+      "question": "বাংলা সাহিত্যে নজরুলের পরিচিতি কী হিসেবে সর্বাধিক প্রচলিত?",
+      "options": [
+        "বিদ্রোহী কবি",
+        "ছন্দের কবি",
+        "প্রকৃতির কবি",
+        "রোমান্টিক কবি"
+      ],
+      "answer": "বিদ্রোহী কবি",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cacc-001",
+      "type": "normal",
+      "subject": "Accountancy",
+      "class": "12",
+      "semester": "3",
+      "question": "Goodwill is generally treated as which type of asset?",
+      "options": [
+        "Tangible asset",
+        "Fictitious asset",
+        "Intangible asset",
+        "Current liability"
+      ],
+      "answer": "Intangible asset",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cacc-002",
+      "type": "normal",
+      "subject": "Accountancy",
+      "class": "12",
+      "semester": "3",
+      "question": "Which account is prepared to record the revaluation of assets and liabilities?",
+      "options": [
+        "Capital Account",
+        "Revaluation Account",
+        "Cash Account",
+        "Suspense Account"
+      ],
+      "answer": "Revaluation Account",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cacc-003",
+      "type": "normal",
+      "subject": "Accountancy",
+      "class": "12",
+      "semester": "3",
+      "question": "When a new partner is admitted, the old partners generally sacrifice their share in favour of the new partner.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": "True",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cacc-004",
+      "type": "normal",
+      "subject": "Accountancy",
+      "class": "12",
+      "semester": "3",
+      "question": "Sacrificing ratio is calculated as:",
+      "options": [
+        "New Ratio − Old Ratio",
+        "Old Ratio − New Ratio",
+        "Old Ratio + New Ratio",
+        "New Ratio ÷ Old Ratio"
+      ],
+      "answer": "Old Ratio − New Ratio",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cacc-005",
+      "type": "normal",
+      "subject": "Accountancy",
+      "class": "12",
+      "semester": "3",
+      "question": "The excess of the amount paid over the net assets acquired in a business combination is called ______.",
+      "options": [
+        "Capital",
+        "Goodwill",
+        "Reserve",
+        "Drawings"
+      ],
+      "answer": "Goodwill",
+      "marks": 1,
+      "topic": ""
+    },
+    {
+      "id": "cl-001",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership কী?",
+      "options": [
+        "Capital",
+        "দুই বা ততোধিক ব্যক্তির মধ্যে চুক্তির ভিত্তিতে ব্যবসা পরিচালনা ও লাভ ভাগাভাগির সম্পর্ককে Partnership বলে।",
+        "Reserve",
+        "Drawings"
+      ],
+      "answer": "দুই বা ততোধিক ব্যক্তির মধ্যে চুক্তির ভিত্তিতে ব্যবসা পরিচালনা ও লাভ ভাগাভাগির সম্পর্ককে Partnership বলে।",
+      "marks": 1
+    },
+    {
+      "id": "cl-002",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership কোন আইনের অধীনে পরিচালিত হয়?",
+      "options": [],
+      "answer": "Indian Partnership Act, 1932।",
+      "marks": 1
+    },
+    {
+      "id": "cl-003",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partner কাকে বলে?",
+      "options": [],
+      "answer": "যে ব্যক্তি Partnership Firm-এর সঙ্গে Partnership Agreement-এ যুক্ত থাকে তাকে Partner বলে।",
+      "marks": 1
+    },
+    {
+      "id": "cl-004",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Firm কী?",
+      "options": [],
+      "answer": "যে সকল ব্যক্তি Partnership-এ যুক্ত হয়ে ব্যবসা করে তাদের সমষ্টিকে Firm বলে।",
+      "marks": 1
+    },
+    {
+      "id": "cl-005",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর মূল ভিত্তি কী?",
+      "options": [],
+      "answer": "Agreement বা চুক্তি।",
+      "marks": 1
+    },
+    {
+      "id": "cl-006",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership কি Status থেকে সৃষ্টি হয়?",
+      "options": [],
+      "answer": "না, Contract বা Agreement থেকে সৃষ্টি হয়।",
+      "marks": 1
+    },
+    {
+      "id": "cl-007",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর একটি অপরিহার্য উপাদান কী?",
+      "options": [],
+      "answer": "Mutual Agency।",
+      "marks": 1
+    },
+    {
+      "id": "cl-008",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Mutual Agency বলতে কী বোঝায়?",
+      "options": [],
+      "answer": "প্রত্যেক Partner Firm-এর Agent এবং Principal উভয়ই।",
+      "marks": 1
+    },
+    {
+      "id": "cl-009",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর জন্য ন্যূনতম কতজন ব্যক্তি প্রয়োজন?",
+      "options": [],
+      "answer": "2 জন।",
+      "marks": 1
+    },
+    {
+      "id": "cl-010",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর ক্ষেত্রে Partners-এর মধ্যে কী থাকতে হয়?",
+      "options": [],
+      "answer": "Agreement।",
+      "marks": 1
+    },
+    {
+      "id": "cl-011",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর উদ্দেশ্য কী?",
+      "options": [],
+      "answer": "Business করা এবং Profit ভাগ করে নেওয়া।",
+      "marks": 1
+    },
+    {
+      "id": "cl-012",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership Firm-এর Separate Legal Entity আছে কি?",
+      "options": [],
+      "answer": "সাধারণভাবে নেই।",
+      "marks": 1
+    },
+    {
+      "id": "cl-013",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এ Partner কী?",
+      "options": [],
+      "answer": "Principal এবং Agent উভয়ই।",
+      "marks": 1
+    },
+    {
+      "id": "cl-014",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর সবচেয়ে গুরুত্বপূর্ণ বৈশিষ্ট্য কী?",
+      "options": [],
+      "answer": "Mutual Agency।",
+      "marks": 1
+    },
+    {
+      "id": "cl-015",
+      "type": "normal",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "law-of-partnership",
+      "question": "Partnership-এর অস্তিত্ব কোন বিষয়ের উপর নির্ভরশীল?",
+      "options": [],
+      "answer": "Agreement-এর উপর।",
+      "marks": 1
+    },
+    {
+      "id": "cl-016",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "partnership-deed",
+      "questionNo": 16,
+      "question": "Partnership Deed কী?",
+      "options": [
+        "Partners-দের মধ্যে সম্পাদিত Partnership Agreement-এর লিখিত দলিল",
+        "Company-এর Registration Certificate",
+        "Firm-এর Bank Account",
+        "Auditor-এর Report"
+      ],
+      "answer": "Partners-দের মধ্যে সম্পাদিত Partnership Agreement-এর লিখিত দলিল",
+      "marks": 1
+    },
+    {
+      "id": "cl-017",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "partnership-deed",
+      "questionNo": 17,
+      "question": "Partnership Deed কি লিখিত হওয়া বাধ্যতামূলক?",
+      "options": [
+        "হ্যাঁ, সবসময় বাধ্যতামূলক",
+        "আইনত লিখিত হওয়া অপরিহার্য নয়, তবে লিখিত Deed অত্যন্ত গুরুত্বপূর্ণ",
+        "শুধু Public Company-এর ক্ষেত্রে বাধ্যতামূলক",
+        "শুধু Bank-এর অনুমতি থাকলে বাধ্যতামূলক"
+      ],
+      "answer": "আইনত লিখিত হওয়া অপরিহার্য নয়, তবে লিখিত Deed অত্যন্ত গুরুত্বপূর্ণ",
+      "marks": 1
+    },
+    {
+      "id": "cl-018",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "partnership-deed",
+      "questionNo": 18,
+      "question": "Partnership Deed-এ কী কী বিষয় উল্লেখ করা যায়?",
+      "options": [
+        "শুধু Capital",
+        "শুধু Profit-sharing Ratio",
+        "Capital, Profit-sharing Ratio, Salary, Interest, Rights ও Duties ইত্যাদি",
+        "শুধু Partners-এর নাম"
+      ],
+      "answer": "Capital, Profit-sharing Ratio, Salary, Interest, Rights ও Duties ইত্যাদি",
+      "marks": 1
+    },
+    {
+      "id": "cl-019",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "partnership-deed",
+      "questionNo": 19,
+      "question": "Partnership Deed-এর প্রধান উদ্দেশ্য কী?",
+      "options": [
+        "Company বন্ধ করা",
+        "Partners-এর অধিকার ও দায়িত্ব স্পষ্ট করা",
+        "Tax সম্পূর্ণ বন্ধ করা",
+        "Firm-এর নাম পরিবর্তন করা"
+      ],
+      "answer": "Partners-এর অধিকার ও দায়িত্ব স্পষ্ট করা",
+      "marks": 1
+    },
+    {
+      "id": "cl-020",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "partnership-deed",
+      "questionNo": 20,
+      "question": "Partnership Deed না থাকলে কোন আইন প্রযোজ্য হয়?",
+      "options": [
+        "Companies Act, 2013",
+        "Indian Contract Act, 1872",
+        "Indian Partnership Act, 1932-এর বিধান",
+        "Sale of Goods Act, 1930"
+      ],
+      "answer": "Indian Partnership Act, 1932-এর বিধান",
+      "marks": 1
+    },
+    {
+      "id": "cl-021",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "partnership-deed",
+      "questionNo": 21,
+      "question": "Partnership Deed-এ Profit-sharing Ratio উল্লেখ না থাকলে কী হয়?",
+      "options": [
+        "সব Profit Managing Partner পায়",
+        "Profit ও Loss সমান অনুপাতে ভাগ হয়",
+        "Profit সরকার পায়",
+        "Firm-এর Profit বাতিল হয়"
+      ],
+      "answer": "Profit ও Loss সমান অনুপাতে ভাগ হয়",
+      "marks": 1
+    },
+    {
+      "id": "cl-022",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "partnership-deed",
+      "questionNo": 22,
+      "question": "Partnership Deed-এ Salary উল্লেখ না থাকলে Partner Salary পাবে কি?",
+      "options": [
+        "হ্যাঁ, সবসময় পাবে",
+        "না",
+        "শুধু Senior Partner পাবে",
+        "শুধু Managing Partner পাবে"
+      ],
+      "answer": "না",
+      "marks": 1
+    },
+    {
+      "id": "cl-023",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "partnership-deed",
+      "questionNo": 23,
+      "question": "Partnership Deed-এ Interest on Capital উল্লেখ না থাকলে Interest দেওয়া হয় কি?",
+      "options": [
+        "হ্যাঁ, 12% হারে",
+        "হ্যাঁ, 6% হারে",
+        "না",
+        "শুধু Managing Partner-কে দেওয়া হয়"
+      ],
+      "answer": "না",
+      "marks": 1
+    },
+    {
+      "id": "cl-024",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "partnership-deed",
+      "questionNo": 24,
+      "question": "Partnership Deed না থাকলে Partner-এর Loan-এর উপর Interest কত?",
+      "options": [
+        "4% per annum",
+        "6% per annum",
+        "8% per annum",
+        "10% per annum"
+      ],
+      "answer": "6% per annum",
+      "marks": 1
+    },
+    {
+      "id": "cl-025",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "partnership-deed",
+      "questionNo": 25,
+      "question": "Partnership Deed না থাকলে Drawings-এর উপর Interest নেওয়া হয় কি?",
+      "options": [
+        "হ্যাঁ, সবসময়",
+        "হ্যাঁ, 6% হারে",
+        "না",
+        "শুধু একজন Partner-এর কাছ থেকে নেওয়া হয়"
+      ],
+      "answer": "না",
+      "marks": 1
+    },
+    {
+      "id": "cl-026",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "registration-of-firm",
+      "questionNo": 26,
+      "question": "Partnership Firm-এর Registration কী?",
+      "options": [
+        "Firm বন্ধ করার প্রক্রিয়া",
+        "Registrar of Firms-এর কাছে Firm-এর তথ্য নথিভুক্ত করা",
+        "Bank Account খোলার প্রক্রিয়া",
+        "Company-কে Public Company করা"
+      ],
+      "answer": "Registrar of Firms-এর কাছে Firm-এর তথ্য নথিভুক্ত করা",
+      "marks": 1
+    },
+    {
+      "id": "cl-027",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "registration-of-firm",
+      "questionNo": 27,
+      "question": "Partnership Firm-এর Registration কি বাধ্যতামূলক?",
+      "options": [
+        "সবক্ষেত্রে বাধ্যতামূলক",
+        "সাধারণভাবে বাধ্যতামূলক নয়, তবে Unregistered Firm-এর উপর কিছু আইনগত নিষেধাজ্ঞা থাকে",
+        "শুধু Foreign Firm-এর জন্য বাধ্যতামূলক",
+        "শুধু দুই বছরের জন্য বাধ্যতামূলক"
+      ],
+      "answer": "সাধারণভাবে বাধ্যতামূলক নয়, তবে Unregistered Firm-এর উপর কিছু আইনগত নিষেধাজ্ঞা থাকে",
+      "marks": 1
+    },
+    {
+      "id": "cl-028",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "registration-of-firm",
+      "questionNo": 28,
+      "question": "Firm-এর Registration কে করেন?",
+      "options": [
+        "Registrar of Companies",
+        "Registrar of Firms",
+        "Auditor",
+        "Bank Manager"
+      ],
+      "answer": "Registrar of Firms",
+      "marks": 1
+    },
+    {
+      "id": "cl-029",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "registration-of-firm",
+      "questionNo": 29,
+      "question": "Registration-এর জন্য কোথায় আবেদন করা হয়?",
+      "options": [
+        "Registrar of Firms-এর কাছে",
+        "Income Tax Department-এর কাছে",
+        "Bank-এর কাছে",
+        "Court-এর কাছে"
+      ],
+      "answer": "Registrar of Firms-এর কাছে",
+      "marks": 1
+    },
+    {
+      "id": "cl-030",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "registration-of-firm",
+      "questionNo": 30,
+      "question": "Unregistered Firm-এর প্রধান অসুবিধা কী?",
+      "options": [
+        "Business করা যায় না",
+        "Contractual rights enforce করার ক্ষেত্রে আইনগত নিষেধাজ্ঞা থাকে",
+        "Partner রাখা যায় না",
+        "Bank Account খোলা যায় না"
+      ],
+      "answer": "Contractual rights enforce করার ক্ষেত্রে আইনগত নিষেধাজ্ঞা থাকে",
+      "marks": 1
+    },
+    {
+      "id": "cl-031",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "registration-of-firm",
+      "questionNo": 31,
+      "question": "Unregistered Firm কি Third Party-এর বিরুদ্ধে contractual right enforce করতে পারে?",
+      "options": [
+        "সবসময় পারে",
+        "সাধারণভাবে পারে না",
+        "শুধু Bank-এর মাধ্যমে পারে",
+        "শুধু Auditor-এর অনুমতিতে পারে"
+      ],
+      "answer": "সাধারণভাবে পারে না",
+      "marks": 1
+    },
+    {
+      "id": "cl-032",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "registration-of-firm",
+      "questionNo": 32,
+      "question": "Registration-এর একটি গুরুত্বপূর্ণ সুবিধা কী?",
+      "options": [
+        "Firm-এর নাম পরিবর্তন করা",
+        "Firm-এর contractual rights আদালতের মাধ্যমে enforce করা সহজ হয়",
+        "Tax সম্পূর্ণ মওকুফ হয়",
+        "Partners-এর Liability শেষ হয়"
+      ],
+      "answer": "Firm-এর contractual rights আদালতের মাধ্যমে enforce করা সহজ হয়",
+      "marks": 1
+    },
+    {
+      "id": "cl-033",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "registration-of-firm",
+      "questionNo": 33,
+      "question": "Registration-এর তথ্য কোথায় নথিভুক্ত হয়?",
+      "options": [
+        "Register of Firms-এ",
+        "Company Register-এ",
+        "Bank Register-এ",
+        "Tax Register-এ"
+      ],
+      "answer": "Register of Firms-এ",
+      "marks": 1
+    },
+    {
+      "id": "cl-034",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "registration-of-firm",
+      "questionNo": 34,
+      "question": "Firm Registration-এর উদ্দেশ্য কী?",
+      "options": [
+        "Firm-এর আইনগত তথ্য সরকারি নথিতে নথিভুক্ত করা",
+        "Firm বন্ধ করা",
+        "Partners পরিবর্তন করা",
+        "শুধু Bank Account খোলা"
+      ],
+      "answer": "Firm-এর আইনগত তথ্য সরকারি নথিতে নথিভুক্ত করা",
+      "marks": 1
+    },
+    {
+      "id": "cl-035",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "registration-of-firm",
+      "questionNo": 35,
+      "question": "Registration না করলে Firm-এর অস্তিত্ব সম্পূর্ণ বেআইনি হয়ে যায় কি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Public Firm হলে",
+        "শুধু Foreign Firm হলে"
+      ],
+      "answer": "না",
+      "marks": 1
+    },
+    {
+      "id": "cl-036",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "rights-and-duties-of-partners",
+      "questionNo": 36,
+      "question": "Partners-এর Mutual Rights কোথায় নির্ধারিত হয়?",
+      "options": [
+        "শুধু Companies Act-এ",
+        "Partnership Agreement/Deed এবং Indian Partnership Act অনুযায়ী",
+        "শুধু Bank Rules-এ",
+        "শুধু Income Tax Act-এ"
+      ],
+      "answer": "Partnership Agreement/Deed এবং Indian Partnership Act অনুযায়ী",
+      "marks": 1
+    },
+    {
+      "id": "cl-037",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "rights-and-duties-of-partners",
+      "questionNo": 37,
+      "question": "প্রত্যেক Partner কি Business-এর Conduct-এ অংশগ্রহণের অধিকার রাখে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Senior Partner রাখে",
+        "শুধু Managing Partner রাখে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-038",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "rights-and-duties-of-partners",
+      "questionNo": 38,
+      "question": "Partner কি Firm-এর Books দেখতে পারে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Auditor পারবে",
+        "শুধু Bank Manager পারবে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-039",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "rights-and-duties-of-partners",
+      "questionNo": 39,
+      "question": "Partner কি Firm-এর Books-এর Copy নিতে পারে?",
+      "options": [
+        "না, কখনোই পারে না",
+        "হ্যাঁ, আইন অনুযায়ী",
+        "শুধু Court-এর অনুমতিতে",
+        "শুধু Bank-এর অনুমতিতে"
+      ],
+      "answer": "হ্যাঁ, আইন অনুযায়ী",
+      "marks": 1
+    },
+    {
+      "id": "cl-040",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "rights-and-duties-of-partners",
+      "questionNo": 40,
+      "question": "Partners-এর মধ্যে Profit কীভাবে ভাগ হয়?",
+      "options": [
+        "সবসময় Capital অনুযায়ী",
+        "Agreement অনুযায়ী; Agreement না থাকলে সমান অনুপাতে",
+        "শুধু Senior Partner পায়",
+        "Government নির্ধারণ করে"
+      ],
+      "answer": "Agreement অনুযায়ী; Agreement না থাকলে সমান অনুপাতে",
+      "marks": 1
+    },
+    {
+      "id": "cl-041",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "rights-and-duties-of-partners",
+      "questionNo": 41,
+      "question": "Partners-এর Duties-এর একটি গুরুত্বপূর্ণ বিষয় কী?",
+      "options": [
+        "Firm-এর স্বার্থে সৎভাবে কাজ করা",
+        "Firm-এর সম্পত্তি ব্যক্তিগত কাজে ব্যবহার করা",
+        "Firm-এর তথ্য গোপন করা",
+        "Profit লুকানো"
+      ],
+      "answer": "Firm-এর স্বার্থে সৎভাবে কাজ করা",
+      "marks": 1
+    },
+    {
+      "id": "cl-042",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "rights-and-duties-of-partners",
+      "questionNo": 42,
+      "question": "Partner কি Firm-এর প্রতিদ্বন্দ্বী ব্যবসা করতে পারে?",
+      "options": [
+        "সবসময় পারে",
+        "Agreement ও আইনের বিধান অনুযায়ী সীমাবদ্ধতা থাকে",
+        "শুধু Auditor-এর অনুমতিতে পারে",
+        "শুধু Bank-এর অনুমতিতে পারে"
+      ],
+      "answer": "Agreement ও আইনের বিধান অনুযায়ী সীমাবদ্ধতা থাকে",
+      "marks": 1
+    },
+    {
+      "id": "cl-043",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "rights-and-duties-of-partners",
+      "questionNo": 43,
+      "question": "Partner কি Firm-এর সম্পত্তি নিজের ব্যক্তিগত কাজে ব্যবহার করতে পারে?",
+      "options": [
+        "হ্যাঁ, সবসময়",
+        "সাধারণভাবে পারে না",
+        "শুধু Senior Partner পারে",
+        "শুধু Auditor পারে"
+      ],
+      "answer": "সাধারণভাবে পারে না",
+      "marks": 1
+    },
+    {
+      "id": "cl-044",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "rights-and-duties-of-partners",
+      "questionNo": 44,
+      "question": "Partner-এর Firm-এর প্রতি Duty কী?",
+      "options": [
+        "Good Faith বজায় রাখা",
+        "Profit গোপন করা",
+        "Firm-এর সম্পত্তি বিক্রি করা",
+        "Firm-এর বিরুদ্ধে কাজ করা"
+      ],
+      "answer": "Good Faith বজায় রাখা",
+      "marks": 1
+    },
+    {
+      "id": "cl-045",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "rights-and-duties-of-partners",
+      "questionNo": 45,
+      "question": "Partners-এর মধ্যে Good Faith থাকা কি জরুরি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Public Company-তে",
+        "শুধু Foreign Firm-এ"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-046",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "authority-of-partner",
+      "questionNo": 46,
+      "question": "Partner-এর Authority কী?",
+      "options": [
+        "Firm-এর পক্ষে কাজ করার আইনগত ক্ষমতা",
+        "Firm বন্ধ করার ক্ষমতা",
+        "Tax মওকুফ করার ক্ষমতা",
+        "Company Registration করার ক্ষমতা"
+      ],
+      "answer": "Firm-এর পক্ষে কাজ করার আইনগত ক্ষমতা",
+      "marks": 1
+    },
+    {
+      "id": "cl-047",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "authority-of-partner",
+      "questionNo": 47,
+      "question": "Authority প্রধানত কত প্রকার?",
+      "options": [
+        "এক প্রকার",
+        "দুই প্রকার—Express এবং Implied",
+        "তিন প্রকার",
+        "চার প্রকার"
+      ],
+      "answer": "দুই প্রকার—Express এবং Implied",
+      "marks": 1
+    },
+    {
+      "id": "cl-048",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "authority-of-partner",
+      "questionNo": 48,
+      "question": "Express Authority কী?",
+      "options": [
+        "Business-এর স্বাভাবিক কার্যক্রম থেকে পাওয়া Authority",
+        "স্পষ্টভাবে Partner-কে দেওয়া Authority",
+        "Court-এর দেওয়া Authority",
+        "Bank-এর দেওয়া Authority"
+      ],
+      "answer": "স্পষ্টভাবে Partner-কে দেওয়া Authority",
+      "marks": 1
+    },
+    {
+      "id": "cl-049",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "authority-of-partner",
+      "questionNo": 49,
+      "question": "Implied Authority কী?",
+      "options": [
+        "স্পষ্টভাবে লিখিত Authority",
+        "Business-এর স্বাভাবিক কার্যক্রম থেকে Partner-এর যে Authority বোঝা যায়",
+        "Government-এর Authority",
+        "Auditor-এর Authority"
+      ],
+      "answer": "Business-এর স্বাভাবিক কার্যক্রম থেকে Partner-এর যে Authority বোঝা যায়",
+      "marks": 1
+    },
+    {
+      "id": "cl-050",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "authority-of-partner",
+      "questionNo": 50,
+      "question": "Implied Authority-এর ভিত্তি কী?",
+      "options": [
+        "Firm-এর ব্যবসার স্বাভাবিক কার্যক্রম",
+        "Partner-এর ব্যক্তিগত সম্পত্তি",
+        "Bank-এর নির্দেশ",
+        "Government Order"
+      ],
+      "answer": "Firm-এর ব্যবসার স্বাভাবিক কার্যক্রম",
+      "marks": 1
+    },
+    {
+      "id": "cl-051",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "authority-of-partner",
+      "questionNo": 51,
+      "question": "Partner-এর Implied Authority কি সীমাহীন?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Senior Partner-এর ক্ষেত্রে",
+        "শুধু Foreign Firm-এর ক্ষেত্রে"
+      ],
+      "answer": "না",
+      "marks": 1
+    },
+    {
+      "id": "cl-052",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "authority-of-partner",
+      "questionNo": 52,
+      "question": "Implied Authority-এর উপর কি Limitation আছে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Public Company-তে",
+        "শুধু Government Firm-এ"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-053",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "authority-of-partner",
+      "questionNo": 53,
+      "question": "Partner Firm-এর পক্ষে সাধারণ Business Transaction করতে পারে কি?",
+      "options": [
+        "না, কখনোই পারে না",
+        "হ্যাঁ, যদি তা Firm-এর Business-এর স্বাভাবিক অংশ হয়",
+        "শুধু Court-এর অনুমতিতে পারে",
+        "শুধু Auditor-এর অনুমতিতে পারে"
+      ],
+      "answer": "হ্যাঁ, যদি তা Firm-এর Business-এর স্বাভাবিক অংশ হয়",
+      "marks": 1
+    },
+    {
+      "id": "cl-054",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "authority-of-partner",
+      "questionNo": 54,
+      "question": "Express Authority কে দিতে পারে?",
+      "options": [
+        "Partners-এর Agreement অনুযায়ী Firm",
+        "শুধু Bank",
+        "শুধু Government",
+        "শুধু Auditor"
+      ],
+      "answer": "Partners-এর Agreement অনুযায়ী Firm",
+      "marks": 1
+    },
+    {
+      "id": "cl-055",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "authority-of-partner",
+      "questionNo": 55,
+      "question": "Emergency-তে Partner-এর Authority কী?",
+      "options": [
+        "Firm বন্ধ করে দেওয়া",
+        "Firm-কে Loss থেকে রক্ষা করার জন্য প্রয়োজনীয় Emergency action নেওয়া",
+        "নিজের Profit বাড়ানো",
+        "Firm-এর সম্পত্তি ব্যক্তিগত কাজে নেওয়া"
+      ],
+      "answer": "Firm-কে Loss থেকে রক্ষা করার জন্য প্রয়োজনীয় Emergency action নেওয়া",
+      "marks": 1
+    },
+    {
+      "id": "cl-056",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "liability-of-partners",
+      "questionNo": 56,
+      "question": "Partner-এর Liability সাধারণত কেমন?",
+      "options": [
+        "Limited",
+        "Unlimited",
+        "Zero",
+        "শুধু Capital পর্যন্ত"
+      ],
+      "answer": "Unlimited",
+      "marks": 1
+    },
+    {
+      "id": "cl-057",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "liability-of-partners",
+      "questionNo": 57,
+      "question": "Firm-এর Liability-এর জন্য Partners দায়ী কি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Auditor দায়ী",
+        "শুধু Bank দায়ী"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-058",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "liability-of-partners",
+      "questionNo": 58,
+      "question": "Partners কি Firm-এর কাজের জন্য Jointly এবং Severally liable হতে পারে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Senior Partner",
+        "শুধু Managing Partner"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-059",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "liability-of-partners",
+      "questionNo": 59,
+      "question": "Third Party-এর প্রতি Partner-এর Liability কখন সৃষ্টি হয়?",
+      "options": [
+        "Firm-এর Business-এর Course-এ Partner-এর কাজের ফলে",
+        "Partner-এর ব্যক্তিগত ছুটির সময়",
+        "শুধু Firm বন্ধ হলে",
+        "শুধু Tax দেওয়ার সময়"
+      ],
+      "answer": "Firm-এর Business-এর Course-এ Partner-এর কাজের ফলে",
+      "marks": 1
+    },
+    {
+      "id": "cl-060",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "liability-of-partners",
+      "questionNo": 60,
+      "question": "Partner-এর wrongful act-এর জন্য Firm liable হতে পারে কি?",
+      "options": [
+        "কখনোই নয়",
+        "নির্দিষ্ট পরিস্থিতিতে হ্যাঁ",
+        "সবক্ষেত্রে নয় কিন্তু শুধু Bank-এর ক্ষেত্রে",
+        "শুধু Government-এর ক্ষেত্রে"
+      ],
+      "answer": "নির্দিষ্ট পরিস্থিতিতে হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-061",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "minor-in-partnership",
+      "questionNo": 61,
+      "question": "Minor কি Partnership-এর Full Partner হতে পারে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Court-এর অনুমতিতে",
+        "শুধু Government-এর অনুমতিতে"
+      ],
+      "answer": "না",
+      "marks": 1
+    },
+    {
+      "id": "cl-062",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "minor-in-partnership",
+      "questionNo": 62,
+      "question": "Minor কি Partnership-এর Benefits-এর জন্য admitted হতে পারে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু 21 বছর হলে",
+        "শুধু Auditor-এর অনুমতিতে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-063",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "minor-in-partnership",
+      "questionNo": 63,
+      "question": "Minor-এর Partnership-এর ক্ষেত্রে কী থাকে?",
+      "options": [
+        "Unlimited Liability",
+        "Benefits of Partnership-এর অধিকার",
+        "Full Partner-এর সমস্ত ক্ষমতা",
+        "Firm-এর সম্পূর্ণ মালিকানা"
+      ],
+      "answer": "Benefits of Partnership-এর অধিকার",
+      "marks": 1
+    },
+    {
+      "id": "cl-064",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "minor-in-partnership",
+      "questionNo": 64,
+      "question": "Minor কি Firm-এর Loss-এর জন্য personally liable?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু অর্ধেক Loss-এর জন্য",
+        "শুধু Partner-এর অনুমতিতে"
+      ],
+      "answer": "না",
+      "marks": 1
+    },
+    {
+      "id": "cl-065",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "minor-in-partnership",
+      "questionNo": 65,
+      "question": "Minor কি Firm-এর Property-তে Share পেতে পারে?",
+      "options": [
+        "না, কোনো অধিকার নেই",
+        "Partnership-এর Benefits অনুযায়ী হ্যাঁ",
+        "শুধু Auditor-এর অনুমতিতে",
+        "শুধু Government-এর অনুমতিতে"
+      ],
+      "answer": "Partnership-এর Benefits অনুযায়ী হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-066",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "minor-in-partnership",
+      "questionNo": 66,
+      "question": "Minor কি Partnership-এর Benefits থেকে বেরিয়ে যেতে পারে?",
+      "options": [
+        "কখনোই পারে না",
+        "আইন অনুযায়ী নির্দিষ্ট পদ্ধতিতে হ্যাঁ",
+        "শুধু Bank-এর অনুমতিতে",
+        "শুধু Firm বন্ধ হলে"
+      ],
+      "answer": "আইন অনুযায়ী নির্দিষ্ট পদ্ধতিতে হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-067",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "minor-in-partnership",
+      "questionNo": 67,
+      "question": "Minor কি Partner-এর মতো Unlimited Liability বহন করে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Profit-এর ক্ষেত্রে",
+        "শুধু প্রথম বছর"
+      ],
+      "answer": "না",
+      "marks": 1
+    },
+    {
+      "id": "cl-068",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "minor-in-partnership",
+      "questionNo": 68,
+      "question": "Minor-এর position কী?",
+      "options": [
+        "Minor is always a Full Partner",
+        "Minor cannot be a full Partner, but may be admitted to the benefits of Partnership",
+        "Minor-এর কোনো Partnership Benefit নেই",
+        "Minor Firm-এর সম্পূর্ণ মালিক"
+      ],
+      "answer": "Minor cannot be a full Partner, but may be admitted to the benefits of Partnership",
+      "marks": 1
+    },
+    {
+      "id": "cl-069",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-law",
+      "questionNo": 69,
+      "question": "Company কী?",
+      "options": [
+        "Natural Person",
+        "আইনের দ্বারা সৃষ্ট একটি Artificial Legal Person",
+        "একটি Partnership Firm",
+        "একটি Bank Account"
+      ],
+      "answer": "আইনের দ্বারা সৃষ্ট একটি Artificial Legal Person",
+      "marks": 1
+    },
+    {
+      "id": "cl-070",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-law",
+      "questionNo": 70,
+      "question": "Company কি একটি Legal Person?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Private Company",
+        "শুধু Government Company"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-071",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-law",
+      "questionNo": 71,
+      "question": "Company কি Natural Person?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Public Company",
+        "শুধু Foreign Company"
+      ],
+      "answer": "না",
+      "marks": 1
+    },
+    {
+      "id": "cl-072",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-law",
+      "questionNo": 72,
+      "question": "Company-কে কী বলা হয়?",
+      "options": [
+        "Natural Person",
+        "Artificial Person",
+        "Minor Person",
+        "Private Person"
+      ],
+      "answer": "Artificial Person",
+      "marks": 1
+    },
+    {
+      "id": "cl-073",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-law",
+      "questionNo": 73,
+      "question": "Company-এর নিজস্ব Legal Personality আছে কি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Government Company-এর",
+        "শুধু Foreign Company-এর"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-074",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-law",
+      "questionNo": 74,
+      "question": "Company-এর নিজস্ব সম্পত্তি থাকতে পারে কি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Shareholder-এর নামে",
+        "শুধু Director-এর নামে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-075",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-law",
+      "questionNo": 75,
+      "question": "Company-এর সম্পত্তি কার সম্পত্তি?",
+      "options": [
+        "Shareholder-এর নিজস্ব সম্পত্তি",
+        "Director-এর সম্পত্তি",
+        "Company-এর নিজস্ব সম্পত্তি",
+        "Auditor-এর সম্পত্তি"
+      ],
+      "answer": "Company-এর নিজস্ব সম্পত্তি",
+      "marks": 1
+    },
+    {
+      "id": "cl-076",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-law",
+      "questionNo": 76,
+      "question": "Shareholder এবং Company কি একই ব্যক্তি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Private Company-তে",
+        "শুধু Government Company-তে"
+      ],
+      "answer": "না",
+      "marks": 1
+    },
+    {
+      "id": "cl-077",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-law",
+      "questionNo": 77,
+      "question": "Company-এর Liability সাধারণত কেমন?",
+      "options": [
+        "Unlimited",
+        "Limited",
+        "Zero",
+        "শুধু Director-এর উপর"
+      ],
+      "answer": "Limited",
+      "marks": 1
+    },
+    {
+      "id": "cl-078",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-law",
+      "questionNo": 78,
+      "question": "Company-এর Perpetual Succession বলতে কী বোঝায়?",
+      "options": [
+        "Company সবসময় বন্ধ থাকে",
+        "Members পরিবর্তিত হলেও Company-এর অস্তিত্ব চলতে থাকে",
+        "Company শুধু এক বছর থাকে",
+        "Members পরিবর্তিত হলে Company বন্ধ হয়ে যায়"
+      ],
+      "answer": "Members পরিবর্তিত হলেও Company-এর অস্তিত্ব চলতে থাকে",
+      "marks": 1
+    },
+    {
+      "id": "cl-079",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "types-of-company",
+      "questionNo": 79,
+      "question": "Chartered Company কী?",
+      "options": [
+        "Companies Act-এর অধীনে গঠিত Company",
+        "Royal Charter-এর মাধ্যমে গঠিত Company",
+        "শুধু Government-এর Company",
+        "Partnership Agreement-এর মাধ্যমে গঠিত Company"
+      ],
+      "answer": "Royal Charter-এর মাধ্যমে গঠিত Company",
+      "marks": 1
+    },
+    {
+      "id": "cl-080",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "types-of-company",
+      "questionNo": 80,
+      "question": "Statutory Company কী?",
+      "options": [
+        "বিশেষ আইন দ্বারা গঠিত Company",
+        "শুধু Private Agreement দ্বারা গঠিত Company",
+        "Royal Charter ছাড়া গঠিত Company",
+        "শুধু Bank দ্বারা গঠিত Company"
+      ],
+      "answer": "বিশেষ আইন দ্বারা গঠিত Company",
+      "marks": 1
+    },
+    {
+      "id": "cl-081",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "types-of-company",
+      "questionNo": 81,
+      "question": "Registered Company কী?",
+      "options": [
+        "Companies Act-এর অধীনে Registered Company",
+        "শুধু Foreign Company",
+        "শুধু Government Company",
+        "Unregistered Firm"
+      ],
+      "answer": "Companies Act-এর অধীনে Registered Company",
+      "marks": 1
+    },
+    {
+      "id": "cl-082",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "types-of-company",
+      "questionNo": 82,
+      "question": "Private Company কী?",
+      "options": [
+        "যে Company Private Company-এর আইনগত শর্ত পূরণ করে",
+        "যে Company কখনো Registered নয়",
+        "শুধু Government Company",
+        "শুধু Foreign Company"
+      ],
+      "answer": "যে Company Private Company-এর আইনগত শর্ত পূরণ করে",
+      "marks": 1
+    },
+    {
+      "id": "cl-083",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "types-of-company",
+      "questionNo": 83,
+      "question": "Public Company কী?",
+      "options": [
+        "যে Company Public Company-এর আইনগত শর্ত পূরণ করে",
+        "যে Company শুধু দুইজন Partner নিয়ে গঠিত",
+        "শুধু Foreign Company",
+        "Unregistered Firm"
+      ],
+      "answer": "যে Company Public Company-এর আইনগত শর্ত পূরণ করে",
+      "marks": 1
+    },
+    {
+      "id": "cl-084",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "types-of-company",
+      "questionNo": 84,
+      "question": "Government Company কী?",
+      "options": [
+        "যে Company-এর prescribed majority share capital Government-এর হাতে থাকে",
+        "যে Company-এর সব Shareholder Foreign",
+        "যে Company কোনো Capital রাখে না",
+        "যে Company শুধু Private"
+      ],
+      "answer": "যে Company-এর prescribed majority share capital Government-এর হাতে থাকে",
+      "marks": 1
+    },
+    {
+      "id": "cl-085",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "types-of-company",
+      "questionNo": 85,
+      "question": "Holding Company কী?",
+      "options": [
+        "যে Company অন্য Company-র উপর control রাখে",
+        "যে Company-এর কোনো control নেই",
+        "শুধু Foreign Company",
+        "শুধু Partnership Firm"
+      ],
+      "answer": "যে Company অন্য Company-র উপর control রাখে",
+      "marks": 1
+    },
+    {
+      "id": "cl-086",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "types-of-company",
+      "questionNo": 86,
+      "question": "Subsidiary Company কী?",
+      "options": [
+        "যে Company অন্য একটি Holding Company-এর control-এর অধীনে থাকে",
+        "যে Company Holding Company-কে control করে",
+        "যে Company Unregistered",
+        "যে Company শুধু Government-এর"
+      ],
+      "answer": "যে Company অন্য একটি Holding Company-এর control-এর অধীনে থাকে",
+      "marks": 1
+    },
+    {
+      "id": "cl-087",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "types-of-company",
+      "questionNo": 87,
+      "question": "Foreign Company কী?",
+      "options": [
+        "ভারতের বাইরে incorporated Company, যা ভারতে business বা কার্যক্রম পরিচালনা করে",
+        "ভারতের ভিতরে গঠিত Private Company",
+        "শুধু Government Company",
+        "একটি Partnership Firm"
+      ],
+      "answer": "ভারতের বাইরে incorporated Company, যা ভারতে business বা কার্যক্রম পরিচালনা করে",
+      "marks": 1
+    },
+    {
+      "id": "cl-088",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "types-of-company",
+      "questionNo": 88,
+      "question": "Private Company ও Public Company-এর একটি প্রধান পার্থক্য কী?",
+      "options": [
+        "Private Company সাধারণভাবে public-এর কাছে securities offer করতে পারে, Public Company পারে না",
+        "Public Company সাধারণভাবে public-এর কাছে securities offer করতে পারে, Private Company পারে না",
+        "দুইটির কোনো পার্থক্য নেই",
+        "Private Company কখনো Registered হয় না"
+      ],
+      "answer": "Public Company সাধারণভাবে public-এর কাছে securities offer করতে পারে, Private Company পারে না",
+      "marks": 1
+    },
+    {
+      "id": "cl-089",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "types-of-company",
+      "questionNo": 89,
+      "question": "Private Company কি Public Company-তে convert হতে পারে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু বিদেশে পারে",
+        "শুধু Bank-এর অনুমতিতে পারে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-090",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "types-of-company",
+      "questionNo": 90,
+      "question": "Public Company কি Private Company-তে convert হতে পারে?",
+      "options": [
+        "হ্যাঁ, আইনগত শর্ত পূরণ করে",
+        "না, কখনোই নয়",
+        "শুধু Auditor-এর অনুমতিতে",
+        "শুধু Government Company হলে"
+      ],
+      "answer": "হ্যাঁ, আইনগত শর্ত পূরণ করে",
+      "marks": 1
+    },
+    {
+      "id": "cl-091",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "incorporation-of-company",
+      "questionNo": 91,
+      "question": "Incorporation কী?",
+      "options": [
+        "Company-কে আইনগতভাবে প্রতিষ্ঠিত বা registered করার প্রক্রিয়া",
+        "Company বন্ধ করার প্রক্রিয়া",
+        "Company-এর Audit করার প্রক্রিয়া",
+        "Company-এর Profit ভাগ করার প্রক্রিয়া"
+      ],
+      "answer": "Company-কে আইনগতভাবে প্রতিষ্ঠিত বা registered করার প্রক্রিয়া",
+      "marks": 1
+    },
+    {
+      "id": "cl-092",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "incorporation-of-company",
+      "questionNo": 92,
+      "question": "Company-এর Incorporation কোথায় হয়?",
+      "options": [
+        "Registrar of Companies-এর মাধ্যমে",
+        "Registrar of Firms-এর মাধ্যমে",
+        "Bank-এর মাধ্যমে",
+        "Auditor-এর মাধ্যমে"
+      ],
+      "answer": "Registrar of Companies-এর মাধ্যমে",
+      "marks": 1
+    },
+    {
+      "id": "cl-093",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "incorporation-of-company",
+      "questionNo": 93,
+      "question": "MOA-এর পূর্ণরূপ কী?",
+      "options": [
+        "Memorandum of Association",
+        "Management of Accounts",
+        "Members of Association",
+        "Memorandum of Audit"
+      ],
+      "answer": "Memorandum of Association",
+      "marks": 1
+    },
+    {
+      "id": "cl-094",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "incorporation-of-company",
+      "questionNo": 94,
+      "question": "AOA-এর পূর্ণরূপ কী?",
+      "options": [
+        "Articles of Association",
+        "Accounts of Association",
+        "Articles of Audit",
+        "Association of Accounts"
+      ],
+      "answer": "Articles of Association",
+      "marks": 1
+    },
+    {
+      "id": "cl-095",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "incorporation-of-company",
+      "questionNo": 95,
+      "question": "Memorandum of Association কী?",
+      "options": [
+        "Company-এর internal salary statement",
+        "Company-এর fundamental constitution ও external scope নির্ধারণকারী document",
+        "Auditor-এর Report",
+        "Bank Statement"
+      ],
+      "answer": "Company-এর fundamental constitution ও external scope নির্ধারণকারী document",
+      "marks": 1
+    },
+    {
+      "id": "cl-096",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "incorporation-of-company",
+      "questionNo": 96,
+      "question": "Articles of Association কী?",
+      "options": [
+        "Company-এর internal management-এর rules ও regulations-এর document",
+        "Company-এর external audit report",
+        "Company-এর Bank Passbook",
+        "Company-এর Tax Return"
+      ],
+      "answer": "Company-এর internal management-এর rules ও regulations-এর document",
+      "marks": 1
+    },
+    {
+      "id": "cl-097",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "incorporation-of-company",
+      "questionNo": 97,
+      "question": "MOA-এর প্রধান উদ্দেশ্য কী?",
+      "options": [
+        "Company-এর scope ও fundamental conditions নির্ধারণ করা",
+        "Employees-এর salary নির্ধারণ করা",
+        "Bank Loan দেওয়া",
+        "Auditor নিয়োগ করা"
+      ],
+      "answer": "Company-এর scope ও fundamental conditions নির্ধারণ করা",
+      "marks": 1
+    },
+    {
+      "id": "cl-098",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "incorporation-of-company",
+      "questionNo": 98,
+      "question": "AOA-এর প্রধান উদ্দেশ্য কী?",
+      "options": [
+        "Company-এর internal management নিয়ন্ত্রণ করা",
+        "Company-এর external market price নির্ধারণ করা",
+        "Company বন্ধ করা",
+        "Company-এর Tax মওকুফ করা"
+      ],
+      "answer": "Company-এর internal management নিয়ন্ত্রণ করা",
+      "marks": 1
+    },
+    {
+      "id": "cl-099",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "incorporation-of-company",
+      "questionNo": 99,
+      "question": "MOA এবং AOA কি একই?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Private Company-তে একই",
+        "শুধু Public Company-তে একই"
+      ],
+      "answer": "না",
+      "marks": 1
+    },
+    {
+      "id": "cl-100",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "incorporation-of-company",
+      "questionNo": 100,
+      "question": "MOA কি Company-এর fundamental document?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Foreign Company-তে",
+        "শুধু Government Company-তে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-101",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-revision",
+      "questionNo": 101,
+      "question": "Company-এর Registered Office কোথায় নথিভুক্ত থাকে?",
+      "options": [
+        "Registrar-এর records-এ",
+        "Bank records-এ",
+        "Auditor-এর ব্যক্তিগত records-এ",
+        "Partner-এর records-এ"
+      ],
+      "answer": "Registrar-এর records-এ",
+      "marks": 1
+    },
+    {
+      "id": "cl-102",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-revision",
+      "questionNo": 102,
+      "question": "Company Registration-এর পর কী সৃষ্টি হয়?",
+      "options": [
+        "Separate Legal Entity",
+        "Partnership Deed",
+        "Minor Status",
+        "Unregistered Firm"
+      ],
+      "answer": "Separate Legal Entity",
+      "marks": 1
+    },
+    {
+      "id": "cl-103",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-revision",
+      "questionNo": 103,
+      "question": "Incorporation-এর পর Company কি Contract করতে পারে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Auditor-এর অনুমতিতে",
+        "শুধু Bank-এর অনুমতিতে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-104",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-revision",
+      "questionNo": 104,
+      "question": "Company-এর Incorporation-এর প্রমাণ কী?",
+      "options": [
+        "Partnership Deed",
+        "Certificate of Incorporation",
+        "Bank Passbook",
+        "Auditor's Note"
+      ],
+      "answer": "Certificate of Incorporation",
+      "marks": 1
+    },
+    {
+      "id": "cl-105",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-revision",
+      "questionNo": 105,
+      "question": "Certificate of Incorporation কে issue করেন?",
+      "options": [
+        "Registrar of Companies",
+        "Registrar of Firms",
+        "Bank Manager",
+        "Auditor"
+      ],
+      "answer": "Registrar of Companies",
+      "marks": 1
+    },
+    {
+      "id": "cl-106",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-revision",
+      "questionNo": 106,
+      "question": "MOA-তে Company-এর Objects কোথায় উল্লেখ থাকে?",
+      "options": [
+        "Objects Clause-এ",
+        "Salary Clause-এ",
+        "Audit Clause-এ",
+        "Banking Clause-এ"
+      ],
+      "answer": "Objects Clause-এ",
+      "marks": 1
+    },
+    {
+      "id": "cl-107",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-revision",
+      "questionNo": 107,
+      "question": "MOA-এর Objects Clause কী নির্দেশ করে?",
+      "options": [
+        "Company কোন উদ্দেশ্যে কাজ করতে পারে তা নির্দেশ করে",
+        "Employees-এর salary নির্দেশ করে",
+        "Auditor-এর salary নির্দেশ করে",
+        "Bank-এর interest rate নির্দেশ করে"
+      ],
+      "answer": "Company কোন উদ্দেশ্যে কাজ করতে পারে তা নির্দেশ করে",
+      "marks": 1
+    },
+    {
+      "id": "cl-108",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-revision",
+      "questionNo": 108,
+      "question": "AOA কী নিয়ন্ত্রণ করে?",
+      "options": [
+        "Internal Management",
+        "Foreign Exchange",
+        "Income Tax",
+        "External Market"
+      ],
+      "answer": "Internal Management",
+      "marks": 1
+    },
+    {
+      "id": "cl-109",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-revision",
+      "questionNo": 109,
+      "question": "MOA-এর তুলনায় AOA-এর অবস্থান কেমন?",
+      "options": [
+        "MOA-এর অধীনস্থ",
+        "MOA-এর উপরে",
+        "দুইটি সম্পূর্ণ একই",
+        "AOA-এর কোনো অবস্থান নেই"
+      ],
+      "answer": "MOA-এর অধীনস্থ",
+      "marks": 1
+    },
+    {
+      "id": "cl-110",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-revision",
+      "questionNo": 110,
+      "question": "MOA এবং AOA-এর মধ্যে কোনটি বেশি fundamental?",
+      "options": [
+        "AOA",
+        "MOA",
+        "দুইটিই একই",
+        "কোনোটিই নয়"
+      ],
+      "answer": "MOA",
+      "marks": 1
+    },
+    {
+      "id": "cl-111",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "prospectus",
+      "questionNo": 111,
+      "question": "Prospectus কী?",
+      "options": [
+        "Public-এর কাছে Company-এর securities offer করার জন্য প্রকাশিত document",
+        "Company-এর internal salary statement",
+        "Bank Loan Agreement",
+        "Partnership Deed"
+      ],
+      "answer": "Public-এর কাছে Company-এর securities offer করার জন্য প্রকাশিত document",
+      "marks": 1
+    },
+    {
+      "id": "cl-112",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "prospectus",
+      "questionNo": 112,
+      "question": "Prospectus মূলত কার জন্য?",
+      "options": [
+        "Public investors-এর জন্য",
+        "শুধু Employees-এর জন্য",
+        "শুধু Auditors-এর জন্য",
+        "শুধু Partners-এর জন্য"
+      ],
+      "answer": "Public investors-এর জন্য",
+      "marks": 1
+    },
+    {
+      "id": "cl-113",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "prospectus",
+      "questionNo": 113,
+      "question": "Public Offer কী?",
+      "options": [
+        "Public-এর কাছে securities offer করা",
+        "শুধু Employees-কে Share দেওয়া",
+        "Firm বন্ধ করা",
+        "Partner নিয়োগ করা"
+      ],
+      "answer": "Public-এর কাছে securities offer করা",
+      "marks": 1
+    },
+    {
+      "id": "cl-114",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "prospectus",
+      "questionNo": 114,
+      "question": "Private Placement কী?",
+      "options": [
+        "Public-এর কাছে securities offer করা",
+        "নির্দিষ্ট ব্যক্তি বা selected group-এর কাছে securities offer করা",
+        "শুধু Government-কে Share দেওয়া",
+        "Firm-এর Profit ভাগ করা"
+      ],
+      "answer": "নির্দিষ্ট ব্যক্তি বা selected group-এর কাছে securities offer করা",
+      "marks": 1
+    },
+    {
+      "id": "cl-115",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "prospectus",
+      "questionNo": 115,
+      "question": "Prospectus-এ কী ধরনের তথ্য থাকে?",
+      "options": [
+        "Company ও securities সম্পর্কিত গুরুত্বপূর্ণ তথ্য",
+        "শুধু Employees-এর ব্যক্তিগত তথ্য",
+        "শুধু Bank-এর তথ্য",
+        "শুধু Auditor-এর ব্যক্তিগত তথ্য"
+      ],
+      "answer": "Company ও securities সম্পর্কিত গুরুত্বপূর্ণ তথ্য",
+      "marks": 1
+    },
+    {
+      "id": "cl-116",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "prospectus",
+      "questionNo": 116,
+      "question": "Prospectus-এর উদ্দেশ্য কী?",
+      "options": [
+        "Investors-কে প্রয়োজনীয় তথ্য প্রদান করা",
+        "Company বন্ধ করা",
+        "Tax মওকুফ করা",
+        "Employees নিয়োগ করা"
+      ],
+      "answer": "Investors-কে প্রয়োজনীয় তথ্য প্রদান করা",
+      "marks": 1
+    },
+    {
+      "id": "cl-117",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "prospectus",
+      "questionNo": 117,
+      "question": "Prospectus-এ Misstatement কী?",
+      "options": [
+        "সঠিক তথ্য প্রদান",
+        "ভুল, মিথ্যা বা বিভ্রান্তিকর তথ্য প্রদান",
+        "শুধু ছবি ব্যবহার",
+        "শুধু Financial Statement দেওয়া"
+      ],
+      "answer": "ভুল, মিথ্যা বা বিভ্রান্তিকর তথ্য প্রদান",
+      "marks": 1
+    },
+    {
+      "id": "cl-118",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "prospectus",
+      "questionNo": 118,
+      "question": "Prospectus-এ Misstatement হলে কী হতে পারে?",
+      "options": [
+        "কোনো ফল হয় না",
+        "আইনগত Liability সৃষ্টি হতে পারে",
+        "Company স্বয়ংক্রিয়ভাবে বন্ধ হয়",
+        "সব Share বাতিল হয়"
+      ],
+      "answer": "আইনগত Liability সৃষ্টি হতে পারে",
+      "marks": 1
+    },
+    {
+      "id": "cl-119",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "prospectus",
+      "questionNo": 119,
+      "question": "Shelf Prospectus কী?",
+      "options": [
+        "নির্দিষ্ট সময়ের মধ্যে একাধিক issue-এর জন্য ব্যবহৃত Prospectus",
+        "শুধু একটি Share-এর document",
+        "Auditor-এর Report",
+        "Company-এর internal rule book"
+      ],
+      "answer": "নির্দিষ্ট সময়ের মধ্যে একাধিক issue-এর জন্য ব্যবহৃত Prospectus",
+      "marks": 1
+    },
+    {
+      "id": "cl-120",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "prospectus",
+      "questionNo": 120,
+      "question": "Red Herring Prospectus কী?",
+      "options": [
+        "এমন Prospectus যাতে final details-এর কিছু অংশ সম্পূর্ণভাবে নির্ধারিত নাও থাকতে পারে",
+        "শুধু Private Company-এর Deed",
+        "Company-এর Audit Report",
+        "Firm-এর Registration Certificate"
+      ],
+      "answer": "এমন Prospectus যাতে final details-এর কিছু অংশ সম্পূর্ণভাবে নির্ধারিত নাও থাকতে পারে",
+      "marks": 1
+    },
+    {
+      "id": "cl-121",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-accounts",
+      "questionNo": 121,
+      "question": "Company কি Books of Accounts রাখতে বাধ্য?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Public Company",
+        "শুধু Foreign Company"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-122",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-accounts",
+      "questionNo": 122,
+      "question": "Books of Accounts কী?",
+      "options": [
+        "Company-এর financial transactions-এর হিসাব-সংক্রান্ত records",
+        "শুধু Employees-এর Attendance",
+        "শুধু Shareholder-এর তালিকা",
+        "শুধু Auditor-এর ব্যক্তিগত notes"
+      ],
+      "answer": "Company-এর financial transactions-এর হিসাব-সংক্রান্ত records",
+      "marks": 1
+    },
+    {
+      "id": "cl-123",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-accounts",
+      "questionNo": 123,
+      "question": "Financial Statements কী?",
+      "options": [
+        "Company-এর financial position ও performance প্রকাশকারী statements",
+        "শুধু Bank Statement",
+        "শুধু Partnership Deed",
+        "শুধু Auditor-এর CV"
+      ],
+      "answer": "Company-এর financial position ও performance প্রকাশকারী statements",
+      "marks": 1
+    },
+    {
+      "id": "cl-124",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-accounts",
+      "questionNo": 124,
+      "question": "Financial Statements-এর উদ্দেশ্য কী?",
+      "options": [
+        "Company-এর financial position ও performance সম্পর্কে তথ্য দেওয়া",
+        "Company বন্ধ করা",
+        "Partner নিয়োগ করা",
+        "Tax পুরোপুরি বাদ দেওয়া"
+      ],
+      "answer": "Company-এর financial position ও performance সম্পর্কে তথ্য দেওয়া",
+      "marks": 1
+    },
+    {
+      "id": "cl-125",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-accounts",
+      "questionNo": 125,
+      "question": "Periodical Financial Statements কী?",
+      "options": [
+        "নির্দিষ্ট সময় অন্তর প্রস্তুত করা Financial Statements",
+        "শুধু একবার তৈরি করা Statement",
+        "শুধু Bank Statement",
+        "শুধু Tax Statement"
+      ],
+      "answer": "নির্দিষ্ট সময় অন্তর প্রস্তুত করা Financial Statements",
+      "marks": 1
+    },
+    {
+      "id": "cl-126",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-accounts",
+      "questionNo": 126,
+      "question": "Internal Audit কী?",
+      "options": [
+        "Company-এর internal control ও operations পরীক্ষা করার internal review ব্যবস্থা",
+        "Public-এর কাছে Share offer",
+        "Company Registration",
+        "Partner নিয়োগ"
+      ],
+      "answer": "Company-এর internal control ও operations পরীক্ষা করার internal review ব্যবস্থা",
+      "marks": 1
+    },
+    {
+      "id": "cl-127",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-accounts",
+      "questionNo": 127,
+      "question": "Auditor কে?",
+      "options": [
+        "Company-এর accounts ও financial statements পরীক্ষা করার জন্য নিযুক্ত ব্যক্তি",
+        "Company-এর Shareholder",
+        "Company-এর Customer",
+        "Company-এর Partner"
+      ],
+      "answer": "Company-এর accounts ও financial statements পরীক্ষা করার জন্য নিযুক্ত ব্যক্তি",
+      "marks": 1
+    },
+    {
+      "id": "cl-128",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-accounts",
+      "questionNo": 128,
+      "question": "Auditor-এর প্রধান কাজ কী?",
+      "options": [
+        "Financial Statements পরীক্ষা করে Auditor's Report প্রদান করা",
+        "Company-এর Share বিক্রি করা",
+        "Company-এর Employees নিয়োগ করা",
+        "Company-এর Bank Account খোলা"
+      ],
+      "answer": "Financial Statements পরীক্ষা করে Auditor's Report প্রদান করা",
+      "marks": 1
+    },
+    {
+      "id": "cl-129",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-accounts",
+      "questionNo": 129,
+      "question": "Auditor-এর Appointment কী?",
+      "options": [
+        "আইন অনুযায়ী নির্ধারিত পদ্ধতিতে Auditor নিয়োগ করা",
+        "Auditor-কে বরখাস্ত করা",
+        "Company Registration করা",
+        "Shareholder নির্বাচন করা"
+      ],
+      "answer": "আইন অনুযায়ী নির্ধারিত পদ্ধতিতে Auditor নিয়োগ করা",
+      "marks": 1
+    },
+    {
+      "id": "cl-130",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-accounts",
+      "questionNo": 130,
+      "question": "Auditor-এর Eligibility কেন গুরুত্বপূর্ণ?",
+      "options": [
+        "যোগ্য ব্যক্তি ছাড়া আইনসম্মত Audit করা যায় না",
+        "Company-এর Profit বাড়ে",
+        "Tax কমে যায়",
+        "Shareholder সংখ্যা কমে যায়"
+      ],
+      "answer": "যোগ্য ব্যক্তি ছাড়া আইনসম্মত Audit করা যায় না",
+      "marks": 1
+    },
+    {
+      "id": "cl-131",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "moa-vs-aoa",
+      "questionNo": 131,
+      "question": "MOA-এর পূর্ণরূপ কী?",
+      "options": [
+        "Memorandum of Association",
+        "Management of Accounts",
+        "Members of Audit",
+        "Memorandum of Audit"
+      ],
+      "answer": "Memorandum of Association",
+      "marks": 1
+    },
+    {
+      "id": "cl-132",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "moa-vs-aoa",
+      "questionNo": 132,
+      "question": "AOA-এর পূর্ণরূপ কী?",
+      "options": [
+        "Articles of Association",
+        "Accounts of Association",
+        "Articles of Audit",
+        "Association of Accounts"
+      ],
+      "answer": "Articles of Association",
+      "marks": 1
+    },
+    {
+      "id": "cl-133",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "moa-vs-aoa",
+      "questionNo": 133,
+      "question": "MOA কী নির্ধারণ করে?",
+      "options": [
+        "Company-এর objects ও scope",
+        "Employees-এর salary",
+        "Auditor-এর fees",
+        "Bank Interest"
+      ],
+      "answer": "Company-এর objects ও scope",
+      "marks": 1
+    },
+    {
+      "id": "cl-134",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "moa-vs-aoa",
+      "questionNo": 134,
+      "question": "AOA কী নির্ধারণ করে?",
+      "options": [
+        "Internal rules ও management procedures",
+        "Company-এর external market price",
+        "Income Tax Rate",
+        "Public Offer Price"
+      ],
+      "answer": "Internal rules ও management procedures",
+      "marks": 1
+    },
+    {
+      "id": "cl-135",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "moa-vs-aoa",
+      "questionNo": 135,
+      "question": "MOA কি Company-এর বাইরের scope নির্দেশ করে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Private Company-তে",
+        "শুধু Foreign Company-তে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-136",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "moa-vs-aoa",
+      "questionNo": 136,
+      "question": "AOA কি Company-এর internal management নির্দেশ করে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Government Company-তে",
+        "শুধু Foreign Company-তে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-137",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "moa-vs-aoa",
+      "questionNo": 137,
+      "question": "MOA কি AOA-এর উপর superior?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "দুইটি সমান",
+        "শুধু Private Company-তে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-138",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "moa-vs-aoa",
+      "questionNo": 138,
+      "question": "AOA কি MOA-এর বিরুদ্ধে যেতে পারে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Public Company-তে",
+        "শুধু Government Company-তে"
+      ],
+      "answer": "না",
+      "marks": 1
+    },
+    {
+      "id": "cl-139",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "moa-vs-aoa",
+      "questionNo": 139,
+      "question": "MOA-এর Objects Clause গুরুত্বপূর্ণ কেন?",
+      "options": [
+        "Company-এর কাজের উদ্দেশ্য ও সীমা নির্ধারণ করে",
+        "Employees-এর salary নির্ধারণ করে",
+        "Auditor-এর fees নির্ধারণ করে",
+        "Bank Loan নির্ধারণ করে"
+      ],
+      "answer": "Company-এর কাজের উদ্দেশ্য ও সীমা নির্ধারণ করে",
+      "marks": 1
+    },
+    {
+      "id": "cl-140",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "moa-vs-aoa",
+      "questionNo": 140,
+      "question": "AOA-তে কী ধরনের বিষয় থাকে?",
+      "options": [
+        "Internal administration ও management-এর rules",
+        "শুধু Company-এর external objects",
+        "শুধু Public Offer",
+        "শুধু Tax Rules"
+      ],
+      "answer": "Internal administration ও management-এর rules",
+      "marks": 1
+    },
+    {
+      "id": "cl-141",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-classification",
+      "questionNo": 141,
+      "question": "Holding Company-এর অধীনে কোন Company থাকতে পারে?",
+      "options": [
+        "Subsidiary Company",
+        "Partnership Firm",
+        "Registrar Office",
+        "Auditor Firm"
+      ],
+      "answer": "Subsidiary Company",
+      "marks": 1
+    },
+    {
+      "id": "cl-142",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-classification",
+      "questionNo": 142,
+      "question": "Subsidiary Company কিসের control-এর অধীনে থাকে?",
+      "options": [
+        "Holding Company-এর",
+        "Auditor-এর",
+        "Bank-এর",
+        "Registrar of Firms-এর"
+      ],
+      "answer": "Holding Company-এর",
+      "marks": 1
+    },
+    {
+      "id": "cl-143",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-classification",
+      "questionNo": 143,
+      "question": "Government Company-এর সঙ্গে কার সম্পর্ক থাকে?",
+      "options": [
+        "Government-এর",
+        "শুধু Private Investor-এর",
+        "শুধু Auditor-এর",
+        "শুধু Bank-এর"
+      ],
+      "answer": "Government-এর",
+      "marks": 1
+    },
+    {
+      "id": "cl-144",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-classification",
+      "questionNo": 144,
+      "question": "Foreign Company কোথায় incorporated হয়?",
+      "options": [
+        "India-এর বাইরে",
+        "শুধু India-এর ভিতরে",
+        "শুধু West Bengal-এ",
+        "শুধু Delhi-তে"
+      ],
+      "answer": "India-এর বাইরে",
+      "marks": 1
+    },
+    {
+      "id": "cl-145",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-classification",
+      "questionNo": 145,
+      "question": "Foreign Company কি ভারতে business করতে পারে?",
+      "options": [
+        "আইনগত শর্ত পূরণ করে পারে",
+        "কখনোই পারে না",
+        "শুধু Bank-এর অনুমতিতে",
+        "শুধু Partnership Deed থাকলে"
+      ],
+      "answer": "আইনগত শর্ত পূরণ করে পারে",
+      "marks": 1
+    },
+    {
+      "id": "cl-146",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-classification",
+      "questionNo": 146,
+      "question": "Registered Company কীভাবে সৃষ্টি হয়?",
+      "options": [
+        "Registration-এর মাধ্যমে",
+        "Partnership Agreement-এর মাধ্যমে",
+        "শুধু Oral Agreement-এর মাধ্যমে",
+        "শুধু Bank Account-এর মাধ্যমে"
+      ],
+      "answer": "Registration-এর মাধ্যমে",
+      "marks": 1
+    },
+    {
+      "id": "cl-147",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-classification",
+      "questionNo": 147,
+      "question": "Statutory Company কীভাবে সৃষ্টি হয়?",
+      "options": [
+        "Special Statute বা আইন দ্বারা",
+        "শুধু Partnership Deed দ্বারা",
+        "শুধু Bank Loan দ্বারা",
+        "শুধু Public Offer দ্বারা"
+      ],
+      "answer": "Special Statute বা আইন দ্বারা",
+      "marks": 1
+    },
+    {
+      "id": "cl-148",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-classification",
+      "questionNo": 148,
+      "question": "Chartered Company কীভাবে সৃষ্টি হয়?",
+      "options": [
+        "Royal Charter-এর মাধ্যমে",
+        "Registrar of Firms-এর মাধ্যমে",
+        "Partnership Deed-এর মাধ্যমে",
+        "Bank-এর মাধ্যমে"
+      ],
+      "answer": "Royal Charter-এর মাধ্যমে",
+      "marks": 1
+    },
+    {
+      "id": "cl-149",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-classification",
+      "questionNo": 149,
+      "question": "Private Company ও Public Company কি আলাদা ধরনের Company?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Foreign Company-এর ক্ষেত্রে",
+        "শুধু Government Company-এর ক্ষেত্রে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-150",
+      "type": "mcq",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "topic": "company-classification",
+      "questionNo": 150,
+      "question": "Public Company কি Public-এর কাছে securities offer করতে পারে?",
+      "options": [
+        "আইনগত শর্ত অনুযায়ী হ্যাঁ",
+        "কখনোই পারে না",
+        "শুধু Auditor-এর অনুমতিতে",
+        "শুধু Private Agreement-এর মাধ্যমে"
+      ],
+      "answer": "আইনগত শর্ত অনুযায়ী হ্যাঁ",
+      "marks": 1
+    },
+    {
+      "id": "cl-151",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Application/Concept-Based V.V.V.",
+      "type": "mcq",
+      "question": "A ও B একটি ব্যবসা চালাচ্ছে এবং একে অপরের Agent হিসেবে কাজ করছে। এটি কোন বৈশিষ্ট্য?",
+      "options": [
+        "Mutual Agency",
+        "Separate Legal Entity",
+        "Perpetual Succession",
+        "Limited Liability"
+      ],
+      "answer": "Mutual Agency",
+      "marks": 1,
+      "topic": "application-concept-vvv",
+      "questionNo": 151
+    },
+    {
+      "id": "cl-152",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Application/Concept-Based V.V.V.",
+      "type": "mcq",
+      "question": "Partners-এর মধ্যে লিখিত agreement থাকলে সেটিকে কী বলা হয়?",
+      "options": [
+        "Partnership Deed",
+        "Memorandum of Association",
+        "Articles of Association",
+        "Prospectus"
+      ],
+      "answer": "Partnership Deed",
+      "marks": 1,
+      "topic": "application-concept-vvv",
+      "questionNo": 152
+    },
+    {
+      "id": "cl-153",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Application/Concept-Based V.V.V.",
+      "type": "mcq",
+      "question": "Firm-এর registration কোথায় করা হয়?",
+      "options": [
+        "Registrar of Firms",
+        "Registrar of Companies",
+        "Income Tax Department",
+        "SEBI"
+      ],
+      "answer": "Registrar of Firms",
+      "marks": 1,
+      "topic": "application-concept-vvv",
+      "questionNo": 153
+    },
+    {
+      "id": "cl-154",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Application/Concept-Based V.V.V.",
+      "type": "mcq",
+      "question": "একজন Partner Firm-এর স্বাভাবিক ব্যবসার মধ্যে একটি contract করল। এটি কোন Authority-এর উদাহরণ?",
+      "options": [
+        "Implied Authority",
+        "Express Authority",
+        "Authority in Emergency",
+        "No Authority"
+      ],
+      "answer": "Implied Authority",
+      "marks": 1,
+      "topic": "application-concept-vvv",
+      "questionNo": 154
+    },
+    {
+      "id": "cl-155",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Application/Concept-Based V.V.V.",
+      "type": "mcq",
+      "question": "Partner-কে স্পষ্টভাবে একটি কাজের ক্ষমতা দেওয়া হয়েছে। এটি কোন Authority?",
+      "options": [
+        "Express Authority",
+        "Implied Authority",
+        "Authority in Emergency",
+        "General Liability"
+      ],
+      "answer": "Express Authority",
+      "marks": 1,
+      "topic": "application-concept-vvv",
+      "questionNo": 155
+    },
+    {
+      "id": "cl-156",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Application/Concept-Based V.V.V.",
+      "type": "mcq",
+      "question": "Firm-কে Emergency-তে Loss থেকে রক্ষা করার জন্য Partner action নিল। এটি কী?",
+      "options": [
+        "Authority in Emergency",
+        "Express Authority",
+        "Implied Authority",
+        "Mutual Agency"
+      ],
+      "answer": "Authority in Emergency",
+      "marks": 1,
+      "topic": "application-concept-vvv",
+      "questionNo": 156
+    },
+    {
+      "id": "cl-157",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Application/Concept-Based V.V.V.",
+      "type": "mcq",
+      "question": "17 বছরের একজন ব্যক্তি Firm-এর লাভের সুবিধা পেল। তার অবস্থান কী?",
+      "options": [
+        "Minor admitted to the benefits of Partnership",
+        "Full Partner",
+        "Nominee of the Firm",
+        "Company Member"
+      ],
+      "answer": "Minor admitted to the benefits of Partnership",
+      "marks": 1,
+      "topic": "application-concept-vvv",
+      "questionNo": 157
+    },
+    {
+      "id": "cl-158",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Application/Concept-Based V.V.V.",
+      "type": "mcq",
+      "question": "Company registration-এর পরে Company কী পায়?",
+      "options": [
+        "Separate Legal Personality",
+        "Unlimited Liability",
+        "Prospectus",
+        "Partnership Deed"
+      ],
+      "answer": "Separate Legal Personality",
+      "marks": 1,
+      "topic": "application-concept-vvv",
+      "questionNo": 158
+    },
+    {
+      "id": "cl-159",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Application/Concept-Based V.V.V.",
+      "type": "mcq",
+      "question": "Company-এর members পরিবর্তিত হলেও Company চলতে থাকলে সেটি কী?",
+      "options": [
+        "Perpetual Succession",
+        "Mutual Agency",
+        "Limited Liability",
+        "Private Placement"
+      ],
+      "answer": "Perpetual Succession",
+      "marks": 1,
+      "topic": "application-concept-vvv",
+      "questionNo": 159
+    },
+    {
+      "id": "cl-160",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Application/Concept-Based V.V.V.",
+      "type": "mcq",
+      "question": "Company-এর সম্পত্তি Shareholder-এর ব্যক্তিগত সম্পত্তি।",
+      "options": [
+        "No",
+        "Yes",
+        "Only sometimes",
+        "Only with Registrar permission"
+      ],
+      "answer": "No",
+      "marks": 1,
+      "topic": "application-concept-vvv",
+      "questionNo": 160
+    },
+    {
+      "id": 161,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Prospectus + Incorporation V.V.V.",
+      "type": "mcq",
+      "question": "Public-এর কাছে Share offer করার জন্য কোন document গুরুত্বপূর্ণ?",
+      "options": [
+        "Prospectus",
+        "Partnership Deed",
+        "Articles of Association",
+        "Audit Report"
+      ],
+      "answer": "Prospectus",
+      "marks": 1,
+      "topic": "prospectus-incorporation-vvv",
+      "questionNo": 161
+    },
+    {
+      "id": 162,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Prospectus + Incorporation V.V.V.",
+      "type": "mcq",
+      "question": "Selected investors-এর কাছে securities offer করলে তাকে কী বলে?",
+      "options": [
+        "Private Placement",
+        "Public Offer",
+        "Shelf Prospectus",
+        "Bonus Issue"
+      ],
+      "answer": "Private Placement",
+      "marks": 1,
+      "topic": "prospectus-incorporation-vvv",
+      "questionNo": 162
+    },
+    {
+      "id": 163,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Prospectus + Incorporation V.V.V.",
+      "type": "mcq",
+      "question": "Prospectus-এ ভুল তথ্য দিলে তাকে কী বলে?",
+      "options": [
+        "Misstatement",
+        "Private Placement",
+        "Incorporation",
+        "Perpetual Succession"
+      ],
+      "answer": "Misstatement",
+      "marks": 1,
+      "topic": "prospectus-incorporation-vvv",
+      "questionNo": 163
+    },
+    {
+      "id": 164,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Prospectus + Incorporation V.V.V.",
+      "type": "mcq",
+      "question": "একাধিক issue-এর জন্য ব্যবহৃত Prospectus কী?",
+      "options": [
+        "Shelf Prospectus",
+        "Red Herring Prospectus",
+        "Memorandum of Association",
+        "Articles of Association"
+      ],
+      "answer": "Shelf Prospectus",
+      "marks": 1,
+      "topic": "prospectus-incorporation-vvv",
+      "questionNo": 164
+    },
+    {
+      "id": 165,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Prospectus + Incorporation V.V.V.",
+      "type": "mcq",
+      "question": "Final price/quantity পুরোপুরি নির্ধারিত না থাকা Prospectus কোনটি?",
+      "options": [
+        "Red Herring Prospectus",
+        "Shelf Prospectus",
+        "Annual Report",
+        "Audit Report"
+      ],
+      "answer": "Red Herring Prospectus",
+      "marks": 1,
+      "topic": "prospectus-incorporation-vvv",
+      "questionNo": 165
+    },
+    {
+      "id": 166,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Prospectus + Incorporation V.V.V.",
+      "type": "mcq",
+      "question": "Company-এর internal rules কোথায় থাকে?",
+      "options": [
+        "Articles of Association",
+        "Memorandum of Association",
+        "Prospectus",
+        "Certificate of Incorporation"
+      ],
+      "answer": "Articles of Association",
+      "marks": 1,
+      "topic": "prospectus-incorporation-vvv",
+      "questionNo": 166
+    },
+    {
+      "id": 167,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Prospectus + Incorporation V.V.V.",
+      "type": "mcq",
+      "question": "Company-এর objects কোথায় থাকে?",
+      "options": [
+        "Objects Clause of MOA",
+        "Articles of Association",
+        "Audit Report",
+        "Balance Sheet"
+      ],
+      "answer": "Objects Clause of MOA",
+      "marks": 1,
+      "topic": "prospectus-incorporation-vvv",
+      "questionNo": 167
+    },
+    {
+      "id": 168,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Prospectus + Incorporation V.V.V.",
+      "type": "mcq",
+      "question": "Company-এর incorporation-এর পর তার legal identity কী হয়?",
+      "options": [
+        "Separate Legal Entity",
+        "Partnership Firm",
+        "Sole Proprietorship",
+        "Natural Person"
+      ],
+      "answer": "Separate Legal Entity",
+      "marks": 1,
+      "topic": "prospectus-incorporation-vvv",
+      "questionNo": 168
+    },
+    {
+      "id": 169,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Prospectus + Incorporation V.V.V.",
+      "type": "mcq",
+      "question": "Company incorporation-এর official evidence কী?",
+      "options": [
+        "Certificate of Incorporation",
+        "Prospectus",
+        "Partnership Deed",
+        "Audit Report"
+      ],
+      "answer": "Certificate of Incorporation",
+      "marks": 1,
+      "topic": "prospectus-incorporation-vvv",
+      "questionNo": 169
+    },
+    {
+      "id": 170,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "Prospectus + Incorporation V.V.V.",
+      "type": "mcq",
+      "question": "Company-এর accounts পরীক্ষা করেন কে?",
+      "options": [
+        "Auditor",
+        "Registrar of Firms",
+        "Shareholder",
+        "Promoter"
+      ],
+      "answer": "Auditor",
+      "marks": 1,
+      "topic": "prospectus-incorporation-vvv",
+      "questionNo": 170
+    },
+    {
+      "id": 171,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Partnership কি Contract থেকে সৃষ্টি হয়?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু লিখিত agreement থাকলে",
+        "শুধু registration-এর মাধ্যমে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 171
+    },
+    {
+      "id": 172,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Partnership-এর মূল বৈশিষ্ট্য Mutual Agency কি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Company-তে",
+        "শুধু Minor-এর ক্ষেত্রে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 172
+    },
+    {
+      "id": 173,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Minor কি Full Partner হতে পারে?",
+      "options": [
+        "না",
+        "হ্যাঁ",
+        "শুধু Government-এর অনুমতিতে",
+        "শুধু Public Firm-এ"
+      ],
+      "answer": "না",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 173
+    },
+    {
+      "id": 174,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Minor কি Partnership-এর Benefits পেতে পারে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Company-তে",
+        "শুধু registration-এর পরে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 174
+    },
+    {
+      "id": 175,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Unregistered Firm কি সম্পূর্ণ বেআইনি?",
+      "options": [
+        "না",
+        "হ্যাঁ",
+        "শুধু আদালতের অনুমতিতে",
+        "শুধু দুই Partner থাকলে"
+      ],
+      "answer": "না",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 175
+    },
+    {
+      "id": 176,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Partner-এর Liability সাধারণত Unlimited কি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Limited Company-তে",
+        "শুধু Minor-এর ক্ষেত্রে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 176
+    },
+    {
+      "id": 177,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Express Authority কি স্পষ্টভাবে দেওয়া হয়?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Business-এর course থেকে",
+        "শুধু Registrar-এর মাধ্যমে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 177
+    },
+    {
+      "id": 178,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Implied Authority কি Business-এর স্বাভাবিক কার্যক্রম থেকে আসে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু লিখিত Deed থেকে",
+        "শুধু Court Order থেকে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 178
+    },
+    {
+      "id": 179,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Company কি Artificial Person?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Natural Person",
+        "শুধু Shareholder"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 179
+    },
+    {
+      "id": 180,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Company কি Separate Legal Entity?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Public Company",
+        "শুধু Government Company"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 180
+    },
+    {
+      "id": 181,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Company-এর অস্তিত্ব Members-এর মৃত্যুর সঙ্গে শেষ হয় কি?",
+      "options": [
+        "না",
+        "হ্যাঁ",
+        "শুধু Members-এর সম্মতিতে",
+        "শুধু Auditor-এর সিদ্ধান্তে"
+      ],
+      "answer": "না",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 181
+    },
+    {
+      "id": 182,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Company-এর অস্তিত্ব Members-এর পরিবর্তন বা মৃত্যুর পরেও চলতে থাকার বৈশিষ্ট্যকে কী বলে?",
+      "options": [
+        "Perpetual Succession",
+        "Mutual Agency",
+        "Private Placement",
+        "Limited Liability"
+      ],
+      "answer": "Perpetual Succession",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 182
+    },
+    {
+      "id": 183,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Holding Company-এর control-এর অধীনে কোন Company থাকে?",
+      "options": [
+        "Subsidiary Company",
+        "Partnership Firm",
+        "Registrar of Firms",
+        "Auditor"
+      ],
+      "answer": "Subsidiary Company",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 183
+    },
+    {
+      "id": 184,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Government Company-তে Government-এর উল্লেখযোগ্য shareholding থাকে কি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Foreign Company-তে",
+        "শুধু Private Company-তে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 184
+    },
+    {
+      "id": 185,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "MOA Company-এর fundamental document কি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Public Company-এর ক্ষেত্রে",
+        "শুধু Foreign Company-এর ক্ষেত্রে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 185
+    },
+    {
+      "id": 186,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "AOA Company-এর internal management-এর document কি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু MOA",
+        "শুধু Prospectus"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 186
+    },
+    {
+      "id": 187,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Prospectus-এর প্রধান উদ্দেশ্য কী?",
+      "options": [
+        "Prospective investors-কে গুরুত্বপূর্ণ তথ্য দেওয়া",
+        "Partners-এর profit ভাগ করা",
+        "Employees-এর salary নির্ধারণ করা",
+        "Firm registration করা"
+      ],
+      "answer": "Prospective investors-কে গুরুত্বপূর্ণ তথ্য দেওয়া",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 187
+    },
+    {
+      "id": 188,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Prospectus-এ ভুল তথ্য দেওয়া আইনগত সমস্যা সৃষ্টি করতে পারে কি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Private Placement-এ",
+        "শুধু Partnership-এ"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 188
+    },
+    {
+      "id": 189,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Shelf Prospectus একাধিক issue-তে ব্যবহৃত হতে পারে কি?",
+      "options": [
+        "হ্যাঁ, নির্ধারিত শর্ত ও সময়সীমার মধ্যে",
+        "না, কখনও নয়",
+        "শুধু একবার",
+        "শুধু Private Company-তে"
+      ],
+      "answer": "হ্যাঁ, নির্ধারিত শর্ত ও সময়সীমার মধ্যে",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 189
+    },
+    {
+      "id": 190,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Red Herring Prospectus কি final prospectus-এর মতো সম্পূর্ণ final details ধারণ করে?",
+      "options": [
+        "সব final details নাও থাকতে পারে",
+        "সব final details অবশ্যই থাকে",
+        "এটি Partnership Deed",
+        "এটি Audit Report"
+      ],
+      "answer": "সব final details নাও থাকতে পারে",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 190
+    },
+    {
+      "id": 191,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Private Placement কি সাধারণ Public Offer?",
+      "options": [
+        "না",
+        "হ্যাঁ",
+        "শুধু Public Company-এর ক্ষেত্রে",
+        "শুধু Government Company-এর ক্ষেত্রে"
+      ],
+      "answer": "না",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 191
+    },
+    {
+      "id": 192,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Company-এর Books of Accounts রাখা কি গুরুত্বপূর্ণ?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Private Company-তে",
+        "শুধু Auditor-এর জন্য"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 192
+    },
+    {
+      "id": 193,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Financial Statements কী প্রকাশ করে?",
+      "options": [
+        "Company-এর financial position ও performance",
+        "শুধু employees-এর salary",
+        "শুধু shareholders-এর নাম",
+        "শুধু tax rate"
+      ],
+      "answer": "Company-এর financial position ও performance",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 193
+    },
+    {
+      "id": 194,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Internal Audit কি Company-এর internal control-এর সঙ্গে সম্পর্কিত?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু external audit-এর সঙ্গে",
+        "শুধু Prospectus-এর সঙ্গে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 194
+    },
+    {
+      "id": 195,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Auditor কি Auditor's Report প্রদান করেন?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Registrar করেন",
+        "শুধু Shareholder করেন"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 195
+    },
+    {
+      "id": 196,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Company-এর Auditor-এর Eligibility গুরুত্বপূর্ণ কি?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Minor-এর ক্ষেত্রে",
+        "শুধু Foreign Company-তে"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 196
+    },
+    {
+      "id": 197,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Private Company কি Public Company-তে convert হতে পারে?",
+      "options": [
+        "হ্যাঁ",
+        "না",
+        "শুধু Court Order ছাড়া",
+        "শুধু Partnership-এ"
+      ],
+      "answer": "হ্যাঁ",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 197
+    },
+    {
+      "id": 198,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Public Company কি Private Company-তে convert হতে পারে?",
+      "options": [
+        "হ্যাঁ, আইনগত শর্ত পূরণ করে",
+        "না, কখনও নয়",
+        "শুধু Private Placement-এর মাধ্যমে",
+        "শুধু Registrar of Firms-এর মাধ্যমে"
+      ],
+      "answer": "হ্যাঁ, আইনগত শর্ত পূরণ করে",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 198
+    },
+    {
+      "id": 199,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Partnership Law-এর মূল Act কোনটি?",
+      "options": [
+        "Indian Partnership Act, 1932",
+        "Companies Act, 2013",
+        "Sale of Goods Act, 1930",
+        "Indian Contract Act, 1872"
+      ],
+      "answer": "Indian Partnership Act, 1932",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 199
+    },
+    {
+      "id": 200,
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "section": "শেষ 30টি — একদম V.V.V.",
+      "type": "mcq",
+      "question": "Semester III Commercial Law-এর Partnership ও Company Law অংশে মোট কত marks?",
+      "options": [
+        "20 marks — Partnership 10 + Company Law 10",
+        "10 marks — Partnership 5 + Company Law 5",
+        "30 marks — Partnership 15 + Company Law 15",
+        "15 marks — Partnership 10 + Company Law 5"
+      ],
+      "answer": "20 marks — Partnership 10 + Company Law 10",
+      "marks": 1,
+      "topic": "last-30-vvv",
+      "questionNo": 200
+    }
+  ],
+  "subjectImages": {
+    "Mathematics": "Mathematics.jpg",
+    "Bengali": "Bengali.jpg",
+    "Accountancy": "Accountancy.jpg",
+    "English": "English.jpg",
+    "Computer": "Computer.jpg",
+    "Computer Science": "Computer.jpg",
+    "COMMERCIAL LAW": "law-of-partnership.jpg"
+  },
+  "topicBoxes": [
+    {
+      "id": "law-of-partnership",
+      "title": "LAW OF PARTNERSHIP",
+      "questionStart": 1,
+      "questionEnd": 15,
+      "image": "law-of-partnership.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "partnership-deed",
+      "title": "Partnership Deed",
+      "questionStart": 16,
+      "questionEnd": 25,
+      "image": "partnership-deed.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "registration-of-firm",
+      "title": "Registration of Firm",
+      "questionStart": 26,
+      "questionEnd": 35,
+      "image": "registration-of-firm.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "rights-duties-of-partners",
+      "title": "Rights & Duties of Partners",
+      "questionStart": 36,
+      "questionEnd": 45,
+      "image": "rights-duties-of-partners.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "authority-of-partner",
+      "title": "Authority of Partner",
+      "questionStart": 46,
+      "questionEnd": 55,
+      "image": "authority-of-partner.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "liability-of-partners",
+      "title": "Liability of Partners",
+      "questionStart": 56,
+      "questionEnd": 60,
+      "image": "liability-of-partners.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "minor-in-partnership",
+      "title": "Minor in Partnership",
+      "questionStart": 61,
+      "questionEnd": 68,
+      "image": "minor-in-partnership.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "company-law",
+      "title": "PART B — COMPANY LAW",
+      "questionStart": 69,
+      "questionEnd": 78,
+      "image": "company-law.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "types-of-company",
+      "title": "Types of Company",
+      "questionStart": 79,
+      "questionEnd": 90,
+      "image": "types-of-company.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "incorporation-of-company",
+      "title": "Incorporation of Company",
+      "questionStart": 91,
+      "questionEnd": 100,
+      "image": "incorporation-of-company.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "most-important-revision",
+      "title": "Most Important Revision Questions",
+      "questionStart": 101,
+      "questionEnd": 110,
+      "image": "most-important-revision.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "prospectus",
+      "title": "Prospectus",
+      "questionStart": 111,
+      "questionEnd": 120,
+      "image": "prospectus.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "company-accounts",
+      "title": "Company Accounts",
+      "questionStart": 121,
+      "questionEnd": 130,
+      "image": "company-accounts.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "moa-vs-aoa",
+      "title": "MOA vs AOA",
+      "questionStart": 131,
+      "questionEnd": 140,
+      "image": "moa-vs-aoa.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "company-classification",
+      "title": "Company Classification",
+      "questionStart": 141,
+      "questionEnd": 150,
+      "image": "company-classification.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "application-concept-vvv",
+      "title": "Application/Concept-Based V.V.V.",
+      "questionStart": 151,
+      "questionEnd": 160,
+      "image": "application-concept-vvv.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "prospectus-incorporation-vvv",
+      "title": "Prospectus + Incorporation V.V.V.",
+      "questionStart": 161,
+      "questionEnd": 170,
+      "image": "prospectus-incorporation-vvv.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    },
+    {
+      "id": "last-30-vvv",
+      "title": "শেষ 30টি — একদম V.V.V.",
+      "questionStart": 171,
+      "questionEnd": 200,
+      "image": "last-30-vvv.jpg",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3"
+    }
+  ]
+}
