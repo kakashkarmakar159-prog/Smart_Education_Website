@@ -105,6 +105,58 @@
       "status": "published",
       "id": "paper-1788539409099",
       "createdAt": "2026-09-04"
+    },
+    {
+      "teacherName": "vx",
+      "password": "4561",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "questions": [
+        {
+          "id": "q-1788552469329679b9d8a2eeea",
+          "type": "mcq",
+          "question": "dhjjh",
+          "options": [
+            "k",
+            "g",
+            "h",
+            "xvd"
+          ],
+          "answer": "xvd",
+          "marks": 1,
+          "time": 5
+        }
+      ],
+      "status": "published",
+      "id": "paper-1788552450303",
+      "createdAt": "2026-09-04"
+    },
+    {
+      "teacherName": "xzbv",
+      "password": "4568",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "questions": [
+        {
+          "id": "q-1788553507056eb415032922668",
+          "type": "mcq",
+          "question": "nm,b",
+          "options": [
+            "j;mo",
+            "l;k",
+            "oplk",
+            "dz"
+          ],
+          "answer": "dz",
+          "marks": 1,
+          "time": 5
+        }
+      ],
+      "status": "published",
+      "id": "paper-1788553490113",
+      "createdAt": "2026-09-04"
     }
   ]
 }
