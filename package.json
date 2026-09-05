@@ -4,7 +4,7 @@
   "private": true,
   "description": "Student, Teacher and Computer Smart Education website",
   "scripts": {
-    "start": "node backend/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.21.2"
