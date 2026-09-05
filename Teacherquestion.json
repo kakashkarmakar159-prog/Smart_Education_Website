@@ -79,6 +79,32 @@
       "status": "published",
       "id": "paper-1788453086472",
       "createdAt": "2026-09-03"
+    },
+    {
+      "teacherName": "DV",
+      "password": "456",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "questions": [
+        {
+          "id": "q-1788539421020e9a44b50284478",
+          "type": "mcq",
+          "question": "KJG",
+          "options": [
+            "GHRD",
+            "FG",
+            "DF",
+            "FG"
+          ],
+          "answer": "FG",
+          "marks": 1,
+          "time": 5
+        }
+      ],
+      "status": "published",
+      "id": "paper-1788539409099",
+      "createdAt": "2026-09-04"
     }
   ]
 }

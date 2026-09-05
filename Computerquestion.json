@@ -229,7 +229,12 @@
       "semester": "3",
       "topic": "law-of-partnership",
       "question": "Partnership কোন আইনের অধীনে পরিচালিত হয়?",
-      "options": [],
+      "options": [
+        "Capital",
+        "দুই বা ততোধিক ব্যক্তির মধ্যে চুক্তির ভিত্তিতে ব্যবসা পরিচালনা ও লাভ ভাগাভাগির সম্পর্ককে Partnership বলে।",
+        "Reserve",
+        "Indian Partnership Act, 1932।"
+      ],
       "answer": "Indian Partnership Act, 1932।",
       "marks": 1
     },
@@ -379,13 +384,19 @@
     },
     {
       "id": "cl-015",
-      "type": "normal",
+      "type": "mcq",
       "subject": "COMMERCIAL LAW",
       "class": "12",
       "semester": "3",
       "topic": "law-of-partnership",
       "question": "Partnership-এর অস্তিত্ব কোন বিষয়ের উপর নির্ভরশীল?",
-      "options": [],
+      "questionNo": 15,
+      "options": [
+        "Partners-দের মধ্যে সম্পাদিত Partnership Agreement-এর লিখিত দলিল",
+        "Company-এর Registration Certificate",
+        "Firm-এর Bank Account",
+        "Agreement-এর উপর।"
+      ],
       "answer": "Agreement-এর উপর।",
       "marks": 1
     },
