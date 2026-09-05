@@ -1,3 +1,214 @@
 {
-  "students": []
+  "papers": [
+    {
+      "id": "paper-demo",
+      "teacherName": "Demo Teacher",
+      "password": "1234",
+      "subject": "Accountancy",
+      "class": "12",
+      "semester": "3",
+      "status": "published",
+      "createdAt": "2026-09-04",
+      "questions": [
+        {
+          "id": "tp-1",
+          "question": "What is the sacrificing ratio?",
+          "options": [
+            "Old Ratio − New Ratio",
+            "New Ratio − Old Ratio",
+            "Old Ratio + New Ratio",
+            "None"
+          ],
+          "answer": "Old Ratio − New Ratio",
+          "marks": 2,
+          "type": "mcq",
+          "time": 5
+        },
+        {
+          "id": "tp-2",
+          "question": "Which account is prepared when a new partner is admitted?",
+          "options": [
+            "Revaluation Account",
+            "Trading Account",
+            "Cash Book",
+            "Purchase Book"
+          ],
+          "answer": "Revaluation Account",
+          "marks": 2,
+          "type": "mcq",
+          "time": 5
+        }
+      ]
+    },
+    {
+      "teacherName": "Aakas Karmakar",
+      "password": "1590",
+      "subject": "Mathematic",
+      "class": "12",
+      "semester": "3",
+      "questions": [
+        {
+          "id": "q-1788453137336",
+          "question": "what is tahe are",
+          "options": [
+            "r",
+            "g",
+            "h",
+            "d"
+          ],
+          "answer": "h",
+          "marks": 1,
+          "type": "mcq",
+          "time": 5
+        },
+        {
+          "id": "q-1788453156031",
+          "question": "jk,,bn.cm/b,/';b",
+          "options": [
+            "fd",
+            "ff",
+            "gs",
+            "gg"
+          ],
+          "answer": "ff",
+          "marks": 1,
+          "type": "mcq",
+          "time": 5
+        }
+      ],
+      "status": "published",
+      "id": "paper-1788453086472",
+      "createdAt": "2026-09-03"
+    },
+    {
+      "teacherName": "DV",
+      "password": "456",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "questions": [
+        {
+          "id": "q-1788539421020e9a44b50284478",
+          "type": "mcq",
+          "question": "KJG",
+          "options": [
+            "GHRD",
+            "FG",
+            "DF",
+            "FG"
+          ],
+          "answer": "FG",
+          "marks": 1,
+          "time": 5
+        }
+      ],
+      "status": "published",
+      "id": "paper-1788539409099",
+      "createdAt": "2026-09-04"
+    },
+    {
+      "teacherName": "vx",
+      "password": "4561",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "questions": [
+        {
+          "id": "q-1788552469329679b9d8a2eeea",
+          "type": "mcq",
+          "question": "dhjjh",
+          "options": [
+            "k",
+            "g",
+            "h",
+            "xvd"
+          ],
+          "answer": "xvd",
+          "marks": 1,
+          "time": 5
+        }
+      ],
+      "status": "published",
+      "id": "paper-1788552450303",
+      "createdAt": "2026-09-04"
+    },
+    {
+      "teacherName": "xzbv",
+      "password": "4568",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "questions": [
+        {
+          "id": "q-1788553507056eb415032922668",
+          "type": "mcq",
+          "question": "nm,b",
+          "options": [
+            "j;mo",
+            "l;k",
+            "oplk",
+            "dz"
+          ],
+          "answer": "dz",
+          "marks": 1,
+          "time": 5
+        }
+      ],
+      "status": "published",
+      "id": "paper-1788553490113",
+      "createdAt": "2026-09-04"
+    },
+    {
+      "teacherName": "vbn",
+      "password": "4562",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "questions": [
+        {
+          "id": "q-17885547106866bfc2afe365368",
+          "type": "mcq",
+          "question": "bgf",
+          "options": [
+            "x",
+            "fg",
+            "fcx",
+            "fcxv"
+          ],
+          "answer": "fcxv",
+          "marks": 1,
+          "time": 5
+        }
+      ],
+      "status": "published",
+      "id": "paper-1788554699190",
+      "createdAt": "2026-09-04"
+    },
+    {
+      "teacherName": "kvhk",
+      "password": "456/",
+      "subject": "COMMERCIAL LAW",
+      "class": "12",
+      "semester": "3",
+      "questions": [
+        {
+          "id": "q-17885583989536c6e16cc9b88b8",
+          "type": "mcq",
+          "question": "bjl",
+          "options": [
+            "kl",
+            "ki",
+            "kmn.",
+            "mlk."
+          ],
+          "answer": "mlk.",
+          "marks": 1,
+          "time": 5
+        }
+      ],
+      "status": "published",
+      "id": "paper-1788558387152",
+      "createdAt": "2026-09-04"
+    }
+  ]
 }
